@@ -1,4 +1,7 @@
 #SingleInstance on
+
+#Include %A_ScriptDir%\..\Scripts\Include\Utils.ahk
+
 ;SetKeyDelay, -1, -1
 SetMouseDelay, -1
 SetDefaultMouseSpeed, 0
@@ -8,11 +11,18 @@ SetBatchLines, -1
 SetTitleMatchMode, 3
 
 global adbShell, adbPath, adbPorts, winTitle, folderPath, selectedFilePath, mumuFolder
+global tradeSectionExpanded, SetDataList, CardDataBySet, SelectedSet, SelectedCard, TradeRadioTrade, TradeRadioShare, tradeBaseY, FriendID, FriendIDInput
+global AllPokemonsCSV, AllPokemons
+tradeSectionExpanded := false
+SetDataList := []
+CardDataBySet := {}
+AllPokemonsCSV := A_ScriptDir . "\..\Resources\all_pokemon.csv"
 
 IniRead, winTitle, InjectAccount.ini, UserSettings, winTitle, 1
 IniRead, fileName, InjectAccount.ini, UserSettings, fileName, name
 IniRead, folderPath, InjectAccount.ini, UserSettings, folderPath, C:\Program Files\Netease
 IniRead, selectedFilePath, InjectAccount.ini, UserSettings, selectedFilePath, ""
+IniRead, FriendID, %A_ScriptDir%\..\Settings.ini, UserSettings, FriendID, none
 
 ; Set a custom font and size for better appearance
 Gui, Font, s10, Segoe UI
@@ -53,16 +63,45 @@ Gui, Add, Button, x+10 yp w80 gBrowseFile, Browse
 Gui, Add, Text, x10 y+15 cDCDCDC, MuMu Folder same as main script (C:\Program Files\Netease)
 Gui, Add, Edit, x10 y+5 vfolderPath w300 c000000 BackgroundFFFFFF, %folderPath%
 
-; Add another separator
-Gui, Add, Text, x10 y+15 w450 h1 0x10 c3F3F3F ; Darker separator
+; Trade/Share collapsible section
+Gui, Add, Text, x10 y+20 w450 h1 0x10 c3F3F3F
+Gui, Add, Button, x435 y+10 w25 h20 gToggleTradeSection vToggleTradeBtn, >
+Gui, Add, Text, x10 yp+2 cWhite, Trade/Share
 
-; Submit button with better styling - making it more prominent
-; Submit and Run Instance buttons centered with adjusted spacing
-Gui, Add, Button, x130 y+30 w100 h40 gSaveSettings cBlue, Submit
-Gui, Add, Button, x+10 yp w100 h40 gRunInstance cGreen, Run Instance
+; Trade warning — always visible
+Gui, Add, Text, x10 y+8 w450 cRed vTradeWarningText, When tab closed, will not auto Trade/Share.
 
-; Show the GUI with a proper size
-Gui, Show, w470 h400, Arturo's Account Injection Tool ;'
+; Expandable trade controls — placed off-screen initially, moved by ApplyExpandState
+Gui, Add, Radio, x10 y5000 vTradeRadioTrade Group Hidden Checked, Trade
+Gui, Add, Radio, x+20 yp vTradeRadioShare Hidden, Share
+Gui, Add, Button, x340 yp w110 h23 Hidden vRunTradeBtn gRunTradeAction, Trade/Share Only
+Gui, Add, Text, x10 y5000 cDCDCDC Hidden vSetDropLabel, Set:
+Gui, Add, DropDownList, x55 yp vSelectedSet w395 Hidden gOnSetChange,
+Gui, Add, Text, x10 y5000 cDCDCDC Hidden vCardDropLabel, Card:
+Gui, Add, DropDownList, x55 yp vSelectedCard w395 Disabled Hidden,
+
+; Friend ID row (expandable trade section)
+friendIDVal := (FriendID = "" || FriendID = "none") ? "" : FriendID
+Gui, Add, Text, x10 y5000 w70 cDCDCDC Hidden vFriendIDLabel, Friend ID:
+Gui, Add, Edit, x85 y5000 w365 c000000 BackgroundFFFFFF Hidden vFriendIDInput, %friendIDVal%
+
+; Set cue banner (gray placeholder) for Friend ID input
+GuiControlGet, FriendIDHwnd, Hwnd, FriendIDInput
+fridHint := "16-digit Friend ID"
+SendMessage, 0x1501, 1, % &fridHint,, ahk_id %FriendIDHwnd%
+
+; Bottom separator and action buttons — off-screen initially, positioned by ApplyCollapseState
+Gui, Add, Text, x10 y5000 w450 h1 0x10 c3F3F3F vBottomSeparator
+Gui, Add, Button, x130 y5000 w100 h40 gSaveSettings cBlue vSubmitBtn, Submit
+Gui, Add, Button, x+10 yp w100 h40 gRunInstance cGreen vRunInstanceBtn, Run Instance
+
+; Read warning text position so all layout is computed from actual rendered coordinates
+GuiControlGet, warnP, Pos, TradeWarningText
+global tradeBaseY
+tradeBaseY := warnPY + warnPH
+
+; Open in collapsed state
+ApplyCollapseState()
 Return
 
 OnGuiClose:
@@ -170,13 +209,196 @@ MaxRetries := 10
         Sleep, 1000
     }
 
+    if (!ValidateTradeParams())
+        return
+
     loadAccount()
     if (adbShell) {
         WinClose, ahk_pid %processID%  ; Force close the window
         adbShell.Terminate()
         adbShell := ""
     }
+
+    ExecuteTradeShare()
 return
+
+ToggleTradeSection:
+    if (tradeSectionExpanded)
+        ApplyCollapseState()
+    else
+        ApplyExpandState()
+    return
+
+ApplyCollapseState() {
+    global tradeSectionExpanded, tradeBaseY
+    tradeSectionExpanded := false
+    GuiControl, Hide, TradeRadioTrade
+    GuiControl, Hide, TradeRadioShare
+    GuiControl, Hide, RunTradeBtn
+    GuiControl, Hide, SetDropLabel
+    GuiControl, Hide, SelectedSet
+    GuiControl, Hide, CardDropLabel
+    GuiControl, Hide, SelectedCard
+    GuiControl, Hide, FriendIDLabel
+    GuiControl, Hide, FriendIDInput
+    sepY  := tradeBaseY + 10
+    btnY  := sepY + 25
+    winH  := btnY + 40 + 20
+    GuiControl, Move, BottomSeparator, y%sepY%
+    GuiControl, Move, SubmitBtn, y%btnY%
+    GuiControl, Move, RunInstanceBtn, y%btnY%
+    Gui, Show, w470 h%winH%, Arturo's Account Injection Tool
+    GuiControl, , ToggleTradeBtn, >
+}
+
+ApplyExpandState() {
+    global tradeSectionExpanded, SetDataList, CardDataBySet, tradeBaseY
+    tradeSectionExpanded := true
+    if (SetDataList.MaxIndex() = "" || SetDataList.MaxIndex() = 0)
+        LoadPokemonData()
+    PopulateSetsDropdown()
+    radioY  := tradeBaseY + 15
+    friendY := radioY + 23 + 10
+    setY    := friendY + 24 + 10
+    cardY   := setY + 24 + 10
+    sepY    := cardY + 24 + 10
+    btnY    := sepY + 25
+    winH    := btnY + 40 + 20
+    GuiControl, Move, TradeRadioTrade, y%radioY%
+    GuiControl, Move, TradeRadioShare, y%radioY%
+    GuiControl, Move, RunTradeBtn, y%radioY%
+    GuiControl, Move, FriendIDLabel, y%friendY%
+    GuiControl, Move, FriendIDInput, y%friendY%
+    GuiControl, Move, SetDropLabel, y%setY%
+    GuiControl, Move, SelectedSet, y%setY%
+    GuiControl, Move, CardDropLabel, y%cardY%
+    GuiControl, Move, SelectedCard, y%cardY%
+    GuiControl, Move, BottomSeparator, y%sepY%
+    GuiControl, Move, SubmitBtn, y%btnY%
+    GuiControl, Move, RunInstanceBtn, y%btnY%
+    GuiControl, Show, TradeRadioTrade
+    GuiControl, Show, TradeRadioShare
+    GuiControl, Show, RunTradeBtn
+    GuiControl, Show, FriendIDLabel
+    GuiControl, Show, FriendIDInput
+    GuiControl, Show, SetDropLabel
+    GuiControl, Show, SelectedSet
+    GuiControl, Show, CardDropLabel
+    GuiControl, Show, SelectedCard
+    Gui, Show, w470 h%winH%, Arturo's Account Injection Tool
+    GuiControl, , ToggleTradeBtn, <
+}
+
+OnSetChange:
+    Gui, Submit, NoHide
+    global CardDataBySet
+    if (SelectedSet = "")
+        return
+    selectedSetCode := Trim(SubStr(SelectedSet, 1, InStr(SelectedSet, " - ") - 1))
+    cardListStr := ""
+    if (CardDataBySet.HasKey(selectedSetCode)) {
+        cards := CardDataBySet[selectedSetCode]
+        Loop, % cards.MaxIndex() {
+            c := cards[A_Index]
+            if (cardListStr != "")
+                cardListStr .= "|"
+            cardListStr .= c.idx . " - " . c.name
+        }
+    }
+    GuiControl, , SelectedCard, |%cardListStr%
+    GuiControl, Enable, SelectedCard
+    return
+
+RunTradeAction:
+    Gui, Submit, NoHide
+    if (!ValidateTradeParams())
+        return
+    ExecuteTradeShare()
+    return
+
+LoadPokemonData() {
+    global SetDataList, CardDataBySet, AllPokemonsCSV, AllPokemons
+    SetDataList := []
+    CardDataBySet := {}
+    setAdded := {}
+    AllPokemons := ReadCSV(AllPokemonsCSV)
+    Loop, % AllPokemons.MaxIndex() {
+        row := AllPokemons[A_Index]
+        sc := row["set_code"]
+        sn := row["set_name"]
+        if (!setAdded.HasKey(sc)) {
+            setAdded[sc] := 1
+            SetDataList.Push({code: sc, name: sn})
+        }
+        if (!CardDataBySet.HasKey(sc))
+            CardDataBySet[sc] := []
+        CardDataBySet[sc].Push({id: row["id"], idx: row["card_index"], name: row["pokemon_name"]})
+    }
+}
+
+PopulateSetsDropdown() {
+    global SetDataList
+    setListStr := ""
+    Loop, % SetDataList.MaxIndex() {
+        s := SetDataList[A_Index]
+        if (setListStr != "")
+            setListStr .= "|"
+        setListStr .= s.code . " - " . s.name
+    }
+    GuiControl, , SelectedSet, |%setListStr%
+    GuiControl, Disable, SelectedCard
+    GuiControl, , SelectedCard, |
+}
+
+ValidateTradeParams() {
+    global tradeSectionExpanded, FriendIDInput, SelectedSet, SelectedCard
+    if (!tradeSectionExpanded)
+        return true
+    Gui, Submit, NoHide
+    if (!RegExMatch(FriendIDInput, "^\d{16}$")) {
+        MsgBox, 16, Error, Friend ID must be exactly 16 digits.
+        return false
+    }
+    if (SelectedSet = "" || SelectedCard = "") {
+        MsgBox, 16, Error, Select both a set and a card.
+        return false
+    }
+    return true
+}
+
+ExecuteTradeShare() {
+    global tradeSectionExpanded, CardDataBySet, SelectedCard, SelectedSet, winTitle, TradeRadioShare, FriendIDInput, FriendID
+
+    if (!tradeSectionExpanded)
+        return
+
+    selectedSetCode := Trim(SubStr(SelectedSet, 1, InStr(SelectedSet, " - ") - 1))
+    selectedCardIdx := Trim(SubStr(SelectedCard, 1, InStr(SelectedCard, " - ") - 1))
+    cardId := ""
+    if (CardDataBySet.HasKey(selectedSetCode)) {
+        cards := CardDataBySet[selectedSetCode]
+        Loop, % cards.MaxIndex() {
+            c := cards[A_Index]
+            if (c.idx = selectedCardIdx) {
+                cardId := c.id
+                break
+            }
+        }
+    }
+    if (cardId = "") {
+        MsgBox, 16, Error, Could not find card data for selection.
+        return
+    }
+    tradeMode := TradeRadioShare ? "Share" : "Trade"
+    IniWrite, %FriendIDInput%, %A_ScriptDir%\..\Settings.ini, UserSettings, FriendID
+    IniWrite, Trade Only, %A_ScriptDir%\..\Settings.ini, UserSettings, deleteMethod
+    FriendID := FriendIDInput
+    iniPath := A_ScriptDir . "\..\Scripts\" . winTitle . ".ini"
+    IniWrite, %cardId%, %iniPath%, UserSettings, cardId
+    IniWrite, %tradeMode%, %iniPath%, UserSettings, tradeMode
+    targetScript := A_ScriptDir . "\..\Scripts\" . winTitle . ".ahk"
+    Run, "%targetScript%"
+}
 
 getMumuFolder(folderPath) {
 mumuFolder := folderPath . "\MuMuPlayerGlobal-12.0"

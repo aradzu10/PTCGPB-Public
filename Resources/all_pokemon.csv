@@ -1,0 +1,2087 @@
+id,set_code,set_name,card_index,pokemon_name,rarity
+A1_1,A1,Genetic Apex,1,Bulbasaur,1D
+A1_2,A1,Genetic Apex,2,Ivysaur,2D
+A1_3,A1,Genetic Apex,3,Venusaur,3D
+A1_4,A1,Genetic Apex,4,Venusaur ex,4D
+A1_5,A1,Genetic Apex,5,Caterpie,1D
+A1_6,A1,Genetic Apex,6,Metapod,1D
+A1_7,A1,Genetic Apex,7,Butterfree,3D
+A1_8,A1,Genetic Apex,8,Weedle,1D
+A1_9,A1,Genetic Apex,9,Kakuna,1D
+A1_10,A1,Genetic Apex,10,Beedrill,3D
+A1_11,A1,Genetic Apex,11,Oddish,1D
+A1_12,A1,Genetic Apex,12,Gloom,2D
+A1_13,A1,Genetic Apex,13,Vileplume,3D
+A1_14,A1,Genetic Apex,14,Paras,1D
+A1_15,A1,Genetic Apex,15,Parasect,2D
+A1_16,A1,Genetic Apex,16,Venonat,1D
+A1_17,A1,Genetic Apex,17,Venomoth,2D
+A1_18,A1,Genetic Apex,18,Bellsprout,1D
+A1_19,A1,Genetic Apex,19,Weepinbell,2D
+A1_20,A1,Genetic Apex,20,Victreebel,3D
+A1_21,A1,Genetic Apex,21,Exeggcute,1D
+A1_22,A1,Genetic Apex,22,Exeggutor,3D
+A1_23,A1,Genetic Apex,23,Exeggutor ex,4D
+A1_24,A1,Genetic Apex,24,Tangela,1D
+A1_25,A1,Genetic Apex,25,Scyther,1D
+A1_26,A1,Genetic Apex,26,Pinsir,2D
+A1_27,A1,Genetic Apex,27,Cottonee,1D
+A1_28,A1,Genetic Apex,28,Whimsicott,2D
+A1_29,A1,Genetic Apex,29,Petilil,1D
+A1_30,A1,Genetic Apex,30,Lilligant,2D
+A1_31,A1,Genetic Apex,31,Skiddo,1D
+A1_32,A1,Genetic Apex,32,Gogoat,1D
+A1_33,A1,Genetic Apex,33,Charmander,1D
+A1_34,A1,Genetic Apex,34,Charmeleon,2D
+A1_35,A1,Genetic Apex,35,Charizard,3D
+A1_36,A1,Genetic Apex,36,Charizard ex,4D
+A1_37,A1,Genetic Apex,37,Vulpix,1D
+A1_38,A1,Genetic Apex,38,Ninetales,2D
+A1_39,A1,Genetic Apex,39,Growlithe,1D
+A1_40,A1,Genetic Apex,40,Arcanine,3D
+A1_41,A1,Genetic Apex,41,Arcanine ex,4D
+A1_42,A1,Genetic Apex,42,Ponyta,1D
+A1_43,A1,Genetic Apex,43,Rapidash,2D
+A1_44,A1,Genetic Apex,44,Magmar,1D
+A1_45,A1,Genetic Apex,45,Flareon,3D
+A1_46,A1,Genetic Apex,46,Moltres,3D
+A1_47,A1,Genetic Apex,47,Moltres ex,4D
+A1_48,A1,Genetic Apex,48,Heatmor,1D
+A1_49,A1,Genetic Apex,49,Salandit,1D
+A1_50,A1,Genetic Apex,50,Salazzle,1D
+A1_51,A1,Genetic Apex,51,Sizzlipede,1D
+A1_52,A1,Genetic Apex,52,Centiskorch,2D
+A1_53,A1,Genetic Apex,53,Squirtle,1D
+A1_54,A1,Genetic Apex,54,Wartortle,2D
+A1_55,A1,Genetic Apex,55,Blastoise,3D
+A1_56,A1,Genetic Apex,56,Blastoise ex,4D
+A1_57,A1,Genetic Apex,57,Psyduck,1D
+A1_58,A1,Genetic Apex,58,Golduck,2D
+A1_59,A1,Genetic Apex,59,Poliwag,1D
+A1_60,A1,Genetic Apex,60,Poliwhirl,2D
+A1_61,A1,Genetic Apex,61,Poliwrath,3D
+A1_62,A1,Genetic Apex,62,Tentacool,1D
+A1_63,A1,Genetic Apex,63,Tentacruel,2D
+A1_64,A1,Genetic Apex,64,Seel,1D
+A1_65,A1,Genetic Apex,65,Dewgong,2D
+A1_66,A1,Genetic Apex,66,Shellder,1D
+A1_67,A1,Genetic Apex,67,Cloyster,2D
+A1_68,A1,Genetic Apex,68,Krabby,1D
+A1_69,A1,Genetic Apex,69,Kingler,2D
+A1_70,A1,Genetic Apex,70,Horsea,1D
+A1_71,A1,Genetic Apex,71,Seadra,2D
+A1_72,A1,Genetic Apex,72,Goldeen,1D
+A1_73,A1,Genetic Apex,73,Seaking,1D
+A1_74,A1,Genetic Apex,74,Staryu,1D
+A1_75,A1,Genetic Apex,75,Starmie,2D
+A1_76,A1,Genetic Apex,76,Starmie ex,4D
+A1_77,A1,Genetic Apex,77,Magikarp,1D
+A1_78,A1,Genetic Apex,78,Gyarados,3D
+A1_79,A1,Genetic Apex,79,Lapras,3D
+A1_80,A1,Genetic Apex,80,Vaporeon,3D
+A1_81,A1,Genetic Apex,81,Omanyte,2D
+A1_82,A1,Genetic Apex,82,Omastar,3D
+A1_83,A1,Genetic Apex,83,Articuno,3D
+A1_84,A1,Genetic Apex,84,Articuno ex,4D
+A1_85,A1,Genetic Apex,85,Ducklett,1D
+A1_86,A1,Genetic Apex,86,Swanna,2D
+A1_87,A1,Genetic Apex,87,Froakie,1D
+A1_88,A1,Genetic Apex,88,Frogadier,2D
+A1_89,A1,Genetic Apex,89,Greninja,3D
+A1_90,A1,Genetic Apex,90,Pyukumuku,1D
+A1_91,A1,Genetic Apex,91,Bruxish,2D
+A1_92,A1,Genetic Apex,92,Snom,1D
+A1_93,A1,Genetic Apex,93,Frosmoth,2D
+A1_94,A1,Genetic Apex,94,Pikachu,1D
+A1_95,A1,Genetic Apex,95,Raichu,3D
+A1_96,A1,Genetic Apex,96,Pikachu ex,4D
+A1_97,A1,Genetic Apex,97,Magnemite,1D
+A1_98,A1,Genetic Apex,98,Magneton,3D
+A1_99,A1,Genetic Apex,99,Voltorb,1D
+A1_100,A1,Genetic Apex,100,Electrode,2D
+A1_101,A1,Genetic Apex,101,Electabuzz,1D
+A1_102,A1,Genetic Apex,102,Jolteon,3D
+A1_103,A1,Genetic Apex,103,Zapdos,3D
+A1_104,A1,Genetic Apex,104,Zapdos ex,4D
+A1_105,A1,Genetic Apex,105,Blitzle,1D
+A1_106,A1,Genetic Apex,106,Zebstrika,2D
+A1_107,A1,Genetic Apex,107,Tynamo,1D
+A1_108,A1,Genetic Apex,108,Eelektrik,2D
+A1_109,A1,Genetic Apex,109,Eelektross,3D
+A1_110,A1,Genetic Apex,110,Helioptile,1D
+A1_111,A1,Genetic Apex,111,Heliolisk,1D
+A1_112,A1,Genetic Apex,112,Pincurchin,2D
+A1_113,A1,Genetic Apex,113,Clefairy,1D
+A1_114,A1,Genetic Apex,114,Clefable,2D
+A1_115,A1,Genetic Apex,115,Abra,1D
+A1_116,A1,Genetic Apex,116,Kadabra,2D
+A1_117,A1,Genetic Apex,117,Alakazam,3D
+A1_118,A1,Genetic Apex,118,Slowpoke,1D
+A1_119,A1,Genetic Apex,119,Slowbro,2D
+A1_120,A1,Genetic Apex,120,Gastly,1D
+A1_121,A1,Genetic Apex,121,Haunter,2D
+A1_122,A1,Genetic Apex,122,Gengar,3D
+A1_123,A1,Genetic Apex,123,Gengar ex,4D
+A1_124,A1,Genetic Apex,124,Drowzee,1D
+A1_125,A1,Genetic Apex,125,Hypno,3D
+A1_126,A1,Genetic Apex,126,Mr. Mime,2D
+A1_127,A1,Genetic Apex,127,Jynx,1D
+A1_128,A1,Genetic Apex,128,Mewtwo,3D
+A1_129,A1,Genetic Apex,129,Mewtwo ex,4D
+A1_130,A1,Genetic Apex,130,Ralts,1D
+A1_131,A1,Genetic Apex,131,Kirlia,2D
+A1_132,A1,Genetic Apex,132,Gardevoir,3D
+A1_133,A1,Genetic Apex,133,Woobat,1D
+A1_134,A1,Genetic Apex,134,Swoobat,1D
+A1_135,A1,Genetic Apex,135,Golett,1D
+A1_136,A1,Genetic Apex,136,Golurk,2D
+A1_137,A1,Genetic Apex,137,Sandshrew,1D
+A1_138,A1,Genetic Apex,138,Sandslash,2D
+A1_139,A1,Genetic Apex,139,Diglett,1D
+A1_140,A1,Genetic Apex,140,Dugtrio,2D
+A1_141,A1,Genetic Apex,141,Mankey,1D
+A1_142,A1,Genetic Apex,142,Primeape,2D
+A1_143,A1,Genetic Apex,143,Machop,1D
+A1_144,A1,Genetic Apex,144,Machoke,2D
+A1_145,A1,Genetic Apex,145,Machamp,3D
+A1_146,A1,Genetic Apex,146,Machamp ex,4D
+A1_147,A1,Genetic Apex,147,Geodude,1D
+A1_148,A1,Genetic Apex,148,Graveler,2D
+A1_149,A1,Genetic Apex,149,Golem,3D
+A1_150,A1,Genetic Apex,150,Onix,2D
+A1_151,A1,Genetic Apex,151,Cubone,1D
+A1_152,A1,Genetic Apex,152,Marowak,2D
+A1_153,A1,Genetic Apex,153,Marowak ex,4D
+A1_154,A1,Genetic Apex,154,Hitmonlee,1D
+A1_155,A1,Genetic Apex,155,Hitmonchan,1D
+A1_156,A1,Genetic Apex,156,Rhyhorn,1D
+A1_157,A1,Genetic Apex,157,Rhydon,2D
+A1_158,A1,Genetic Apex,158,Kabuto,2D
+A1_159,A1,Genetic Apex,159,Kabutops,3D
+A1_160,A1,Genetic Apex,160,Mienfoo,1D
+A1_161,A1,Genetic Apex,161,Mienshao,2D
+A1_162,A1,Genetic Apex,162,Clobbopus,1D
+A1_163,A1,Genetic Apex,163,Grapploct,2D
+A1_164,A1,Genetic Apex,164,Ekans,1D
+A1_165,A1,Genetic Apex,165,Arbok,2D
+A1_166,A1,Genetic Apex,166,Nidoran♀,1D
+A1_167,A1,Genetic Apex,167,Nidorina,2D
+A1_168,A1,Genetic Apex,168,Nidoqueen,3D
+A1_169,A1,Genetic Apex,169,Nidoran♂,1D
+A1_170,A1,Genetic Apex,170,Nidorino,2D
+A1_171,A1,Genetic Apex,171,Nidoking,3D
+A1_172,A1,Genetic Apex,172,Zubat,1D
+A1_173,A1,Genetic Apex,173,Golbat,2D
+A1_174,A1,Genetic Apex,174,Grimer,1D
+A1_175,A1,Genetic Apex,175,Muk,3D
+A1_176,A1,Genetic Apex,176,Koffing,1D
+A1_177,A1,Genetic Apex,177,Weezing,3D
+A1_178,A1,Genetic Apex,178,Mawile,1D
+A1_179,A1,Genetic Apex,179,Pawniard,1D
+A1_180,A1,Genetic Apex,180,Bisharp,2D
+A1_181,A1,Genetic Apex,181,Meltan,1D
+A1_182,A1,Genetic Apex,182,Melmetal,3D
+A1_183,A1,Genetic Apex,183,Dratini,1D
+A1_184,A1,Genetic Apex,184,Dragonair,2D
+A1_185,A1,Genetic Apex,185,Dragonite,3D
+A1_186,A1,Genetic Apex,186,Pidgey,1D
+A1_187,A1,Genetic Apex,187,Pidgeotto,1D
+A1_188,A1,Genetic Apex,188,Pidgeot,3D
+A1_189,A1,Genetic Apex,189,Rattata,1D
+A1_190,A1,Genetic Apex,190,Raticate,1D
+A1_191,A1,Genetic Apex,191,Spearow,1D
+A1_192,A1,Genetic Apex,192,Fearow,1D
+A1_193,A1,Genetic Apex,193,Jigglypuff,1D
+A1_194,A1,Genetic Apex,194,Wigglytuff,1D
+A1_195,A1,Genetic Apex,195,Wigglytuff ex,4D
+A1_196,A1,Genetic Apex,196,Meowth,1D
+A1_197,A1,Genetic Apex,197,Persian,2D
+A1_198,A1,Genetic Apex,198,Farfetch'd,1D
+A1_199,A1,Genetic Apex,199,Doduo,1D
+A1_200,A1,Genetic Apex,200,Dodrio,2D
+A1_201,A1,Genetic Apex,201,Lickitung,2D
+A1_202,A1,Genetic Apex,202,Chansey,2D
+A1_203,A1,Genetic Apex,203,Kangaskhan,3D
+A1_204,A1,Genetic Apex,204,Tauros,2D
+A1_205,A1,Genetic Apex,205,Ditto,3D
+A1_206,A1,Genetic Apex,206,Eevee,1D
+A1_207,A1,Genetic Apex,207,Eevee,1D
+A1_208,A1,Genetic Apex,208,Eevee,1D
+A1_209,A1,Genetic Apex,209,Porygon,2D
+A1_210,A1,Genetic Apex,210,Aerodactyl,3D
+A1_211,A1,Genetic Apex,211,Snorlax,3D
+A1_212,A1,Genetic Apex,212,Minccino,1D
+A1_213,A1,Genetic Apex,213,Cinccino,2D
+A1_214,A1,Genetic Apex,214,Wooloo,1D
+A1_215,A1,Genetic Apex,215,Dubwool,1D
+A1_216,A1,Genetic Apex,216,Helix Fossil,1D
+A1_217,A1,Genetic Apex,217,Dome Fossil,1D
+A1_218,A1,Genetic Apex,218,Old Amber,1D
+A1_219,A1,Genetic Apex,219,Erika,2D
+A1_220,A1,Genetic Apex,220,Misty,2D
+A1_221,A1,Genetic Apex,221,Blaine,2D
+A1_222,A1,Genetic Apex,222,Koga,2D
+A1_223,A1,Genetic Apex,223,Giovanni,2D
+A1_224,A1,Genetic Apex,224,Brock,2D
+A1_225,A1,Genetic Apex,225,Sabrina,2D
+A1_226,A1,Genetic Apex,226,Lt. Surge,2D
+A1a_1,A1a,Mythical Island,1,Exeggcute,1D
+A1a_2,A1a,Mythical Island,2,Exeggutor,2D
+A1a_3,A1a,Mythical Island,3,Celebi ex,4D
+A1a_4,A1a,Mythical Island,4,Snivy,1D
+A1a_5,A1a,Mythical Island,5,Servine,2D
+A1a_6,A1a,Mythical Island,6,Serperior,3D
+A1a_7,A1a,Mythical Island,7,Morelull,1D
+A1a_8,A1a,Mythical Island,8,Shiinotic,2D
+A1a_9,A1a,Mythical Island,9,Dhelmise,2D
+A1a_10,A1a,Mythical Island,10,Ponyta,1D
+A1a_11,A1a,Mythical Island,11,Rapidash,2D
+A1a_12,A1a,Mythical Island,12,Magmar,2D
+A1a_13,A1a,Mythical Island,13,Larvesta,1D
+A1a_14,A1a,Mythical Island,14,Volcarona,3D
+A1a_15,A1a,Mythical Island,15,Salandit,1D
+A1a_16,A1a,Mythical Island,16,Salazzle,1D
+A1a_17,A1a,Mythical Island,17,Magikarp,1D
+A1a_18,A1a,Mythical Island,18,Gyarados ex,4D
+A1a_19,A1a,Mythical Island,19,Vaporeon,3D
+A1a_20,A1a,Mythical Island,20,Finneon,1D
+A1a_21,A1a,Mythical Island,21,Lumineon,2D
+A1a_22,A1a,Mythical Island,22,Chewtle,1D
+A1a_23,A1a,Mythical Island,23,Drednaw,2D
+A1a_24,A1a,Mythical Island,24,Cramorant,1D
+A1a_25,A1a,Mythical Island,25,Pikachu,1D
+A1a_26,A1a,Mythical Island,26,Raichu,3D
+A1a_27,A1a,Mythical Island,27,Electabuzz,2D
+A1a_28,A1a,Mythical Island,28,Joltik,1D
+A1a_29,A1a,Mythical Island,29,Galvantula,2D
+A1a_30,A1a,Mythical Island,30,Dedenne,1D
+A1a_31,A1a,Mythical Island,31,Mew,3D
+A1a_32,A1a,Mythical Island,32,Mew ex,4D
+A1a_33,A1a,Mythical Island,33,Sigilyph,2D
+A1a_34,A1a,Mythical Island,34,Elgyem,1D
+A1a_35,A1a,Mythical Island,35,Beheeyem,2D
+A1a_36,A1a,Mythical Island,36,Flabébé,1D
+A1a_37,A1a,Mythical Island,37,Floette,1D
+A1a_38,A1a,Mythical Island,38,Florges,2D
+A1a_39,A1a,Mythical Island,39,Swirlix,1D
+A1a_40,A1a,Mythical Island,40,Slurpuff,1D
+A1a_41,A1a,Mythical Island,41,Mankey,1D
+A1a_42,A1a,Mythical Island,42,Primeape,1D
+A1a_43,A1a,Mythical Island,43,Geodude,1D
+A1a_44,A1a,Mythical Island,44,Graveler,2D
+A1a_45,A1a,Mythical Island,45,Golem,3D
+A1a_46,A1a,Mythical Island,46,Aerodactyl ex,4D
+A1a_47,A1a,Mythical Island,47,Marshadow,3D
+A1a_48,A1a,Mythical Island,48,Stonjourner,2D
+A1a_49,A1a,Mythical Island,49,Koffing,1D
+A1a_50,A1a,Mythical Island,50,Weezing,2D
+A1a_51,A1a,Mythical Island,51,Purrloin,1D
+A1a_52,A1a,Mythical Island,52,Liepard,1D
+A1a_53,A1a,Mythical Island,53,Venipede,1D
+A1a_54,A1a,Mythical Island,54,Whirlipede,1D
+A1a_55,A1a,Mythical Island,55,Scolipede,2D
+A1a_56,A1a,Mythical Island,56,Druddigon,2D
+A1a_57,A1a,Mythical Island,57,Pidgey,1D
+A1a_58,A1a,Mythical Island,58,Pidgeotto,1D
+A1a_59,A1a,Mythical Island,59,Pidgeot ex,4D
+A1a_60,A1a,Mythical Island,60,Tauros,3D
+A1a_61,A1a,Mythical Island,61,Eevee,1D
+A1a_62,A1a,Mythical Island,62,Chatot,1D
+A1a_63,A1a,Mythical Island,63,Old Amber,1D
+A1a_64,A1a,Mythical Island,64,Pokémon Flute,2D
+A1a_65,A1a,Mythical Island,65,Mythical Slab,2D
+A1a_66,A1a,Mythical Island,66,Budding Expeditioner,2D
+A1a_67,A1a,Mythical Island,67,Blue,2D
+A1a_68,A1a,Mythical Island,68,Leaf,2D
+A2_1,A2,Space-Time Smackdown,1,Oddish,1D
+A2_2,A2,Space-Time Smackdown,2,Gloom,1D
+A2_3,A2,Space-Time Smackdown,3,Bellossom,2D
+A2_4,A2,Space-Time Smackdown,4,Tangela,1D
+A2_5,A2,Space-Time Smackdown,5,Tangrowth,2D
+A2_6,A2,Space-Time Smackdown,6,Yanma,1D
+A2_7,A2,Space-Time Smackdown,7,Yanmega ex,4D
+A2_8,A2,Space-Time Smackdown,8,Roselia,1D
+A2_9,A2,Space-Time Smackdown,9,Roserade,2D
+A2_10,A2,Space-Time Smackdown,10,Turtwig,1D
+A2_11,A2,Space-Time Smackdown,11,Grotle,2D
+A2_12,A2,Space-Time Smackdown,12,Torterra,3D
+A2_13,A2,Space-Time Smackdown,13,Kricketot,1D
+A2_14,A2,Space-Time Smackdown,14,Kricketune,1D
+A2_15,A2,Space-Time Smackdown,15,Burmy,1D
+A2_16,A2,Space-Time Smackdown,16,Wormadam,1D
+A2_17,A2,Space-Time Smackdown,17,Combee,1D
+A2_18,A2,Space-Time Smackdown,18,Vespiquen,2D
+A2_19,A2,Space-Time Smackdown,19,Carnivine,2D
+A2_20,A2,Space-Time Smackdown,20,Leafeon,3D
+A2_21,A2,Space-Time Smackdown,21,Mow Rotom,1D
+A2_22,A2,Space-Time Smackdown,22,Shaymin,3D
+A2_23,A2,Space-Time Smackdown,23,Magmar,1D
+A2_24,A2,Space-Time Smackdown,24,Magmortar,3D
+A2_25,A2,Space-Time Smackdown,25,Slugma,1D
+A2_26,A2,Space-Time Smackdown,26,Magcargo,2D
+A2_27,A2,Space-Time Smackdown,27,Chimchar,1D
+A2_28,A2,Space-Time Smackdown,28,Monferno,2D
+A2_29,A2,Space-Time Smackdown,29,Infernape ex,4D
+A2_30,A2,Space-Time Smackdown,30,Heat Rotom,1D
+A2_31,A2,Space-Time Smackdown,31,Swinub,1D
+A2_32,A2,Space-Time Smackdown,32,Piloswine,2D
+A2_33,A2,Space-Time Smackdown,33,Mamoswine,3D
+A2_34,A2,Space-Time Smackdown,34,Regice,2D
+A2_35,A2,Space-Time Smackdown,35,Piplup,1D
+A2_36,A2,Space-Time Smackdown,36,Prinplup,2D
+A2_37,A2,Space-Time Smackdown,37,Empoleon,3D
+A2_38,A2,Space-Time Smackdown,38,Buizel,1D
+A2_39,A2,Space-Time Smackdown,39,Floatzel,2D
+A2_40,A2,Space-Time Smackdown,40,Shellos,1D
+A2_41,A2,Space-Time Smackdown,41,Gastrodon,2D
+A2_42,A2,Space-Time Smackdown,42,Finneon,1D
+A2_43,A2,Space-Time Smackdown,43,Lumineon,2D
+A2_44,A2,Space-Time Smackdown,44,Snover,1D
+A2_45,A2,Space-Time Smackdown,45,Abomasnow,2D
+A2_46,A2,Space-Time Smackdown,46,Glaceon,3D
+A2_47,A2,Space-Time Smackdown,47,Wash Rotom,1D
+A2_48,A2,Space-Time Smackdown,48,Frost Rotom,1D
+A2_49,A2,Space-Time Smackdown,49,Palkia ex,4D
+A2_50,A2,Space-Time Smackdown,50,Manaphy,2D
+A2_51,A2,Space-Time Smackdown,51,Magnemite,1D
+A2_52,A2,Space-Time Smackdown,52,Magneton,2D
+A2_53,A2,Space-Time Smackdown,53,Magnezone,3D
+A2_54,A2,Space-Time Smackdown,54,Voltorb,1D
+A2_55,A2,Space-Time Smackdown,55,Electrode,2D
+A2_56,A2,Space-Time Smackdown,56,Electabuzz,1D
+A2_57,A2,Space-Time Smackdown,57,Electivire,3D
+A2_58,A2,Space-Time Smackdown,58,Shinx,1D
+A2_59,A2,Space-Time Smackdown,59,Luxio,2D
+A2_60,A2,Space-Time Smackdown,60,Luxray,3D
+A2_61,A2,Space-Time Smackdown,61,Pachirisu ex,4D
+A2_62,A2,Space-Time Smackdown,62,Rotom,1D
+A2_63,A2,Space-Time Smackdown,63,Togepi,1D
+A2_64,A2,Space-Time Smackdown,64,Togetic,2D
+A2_65,A2,Space-Time Smackdown,65,Togekiss,3D
+A2_66,A2,Space-Time Smackdown,66,Misdreavus,1D
+A2_67,A2,Space-Time Smackdown,67,Mismagius ex,4D
+A2_68,A2,Space-Time Smackdown,68,Ralts,1D
+A2_69,A2,Space-Time Smackdown,69,Kirlia,1D
+A2_70,A2,Space-Time Smackdown,70,Duskull,1D
+A2_71,A2,Space-Time Smackdown,71,Dusclops,2D
+A2_72,A2,Space-Time Smackdown,72,Dusknoir,3D
+A2_73,A2,Space-Time Smackdown,73,Drifloon,1D
+A2_74,A2,Space-Time Smackdown,74,Drifblim,2D
+A2_75,A2,Space-Time Smackdown,75,Uxie,2D
+A2_76,A2,Space-Time Smackdown,76,Mesprit,3D
+A2_77,A2,Space-Time Smackdown,77,Azelf,2D
+A2_78,A2,Space-Time Smackdown,78,Giratina,3D
+A2_79,A2,Space-Time Smackdown,79,Cresselia,3D
+A2_80,A2,Space-Time Smackdown,80,Rhyhorn,1D
+A2_81,A2,Space-Time Smackdown,81,Rhydon,2D
+A2_82,A2,Space-Time Smackdown,82,Rhyperior,3D
+A2_83,A2,Space-Time Smackdown,83,Gligar,1D
+A2_84,A2,Space-Time Smackdown,84,Gliscor,2D
+A2_85,A2,Space-Time Smackdown,85,Hitmontop,1D
+A2_86,A2,Space-Time Smackdown,86,Nosepass,1D
+A2_87,A2,Space-Time Smackdown,87,Regirock,2D
+A2_88,A2,Space-Time Smackdown,88,Cranidos,2D
+A2_89,A2,Space-Time Smackdown,89,Rampardos,3D
+A2_90,A2,Space-Time Smackdown,90,Wormadam,1D
+A2_91,A2,Space-Time Smackdown,91,Riolu,1D
+A2_92,A2,Space-Time Smackdown,92,Lucario,3D
+A2_93,A2,Space-Time Smackdown,93,Hippopotas,1D
+A2_94,A2,Space-Time Smackdown,94,Hippowdon,2D
+A2_95,A2,Space-Time Smackdown,95,Gallade ex,4D
+A2_96,A2,Space-Time Smackdown,96,Murkrow,1D
+A2_97,A2,Space-Time Smackdown,97,Honchkrow,2D
+A2_98,A2,Space-Time Smackdown,98,Sneasel,1D
+A2_99,A2,Space-Time Smackdown,99,Weavile ex,4D
+A2_100,A2,Space-Time Smackdown,100,Poochyena,1D
+A2_101,A2,Space-Time Smackdown,101,Mightyena,2D
+A2_102,A2,Space-Time Smackdown,102,Stunky,1D
+A2_103,A2,Space-Time Smackdown,103,Skuntank,2D
+A2_104,A2,Space-Time Smackdown,104,Spiritomb,2D
+A2_105,A2,Space-Time Smackdown,105,Skorupi,1D
+A2_106,A2,Space-Time Smackdown,106,Drapion,2D
+A2_107,A2,Space-Time Smackdown,107,Croagunk,1D
+A2_108,A2,Space-Time Smackdown,108,Toxicroak,2D
+A2_109,A2,Space-Time Smackdown,109,Darkrai,3D
+A2_110,A2,Space-Time Smackdown,110,Darkrai ex,4D
+A2_111,A2,Space-Time Smackdown,111,Skarmory,2D
+A2_112,A2,Space-Time Smackdown,112,Registeel,2D
+A2_113,A2,Space-Time Smackdown,113,Shieldon,2D
+A2_114,A2,Space-Time Smackdown,114,Bastiodon,3D
+A2_115,A2,Space-Time Smackdown,115,Wormadam,1D
+A2_116,A2,Space-Time Smackdown,116,Bronzor,1D
+A2_117,A2,Space-Time Smackdown,117,Bronzong,2D
+A2_118,A2,Space-Time Smackdown,118,Probopass,2D
+A2_119,A2,Space-Time Smackdown,119,Dialga ex,4D
+A2_120,A2,Space-Time Smackdown,120,Heatran,3D
+A2_121,A2,Space-Time Smackdown,121,Gible,1D
+A2_122,A2,Space-Time Smackdown,122,Gabite,2D
+A2_123,A2,Space-Time Smackdown,123,Garchomp,3D
+A2_124,A2,Space-Time Smackdown,124,Lickitung,1D
+A2_125,A2,Space-Time Smackdown,125,Lickilicky ex,4D
+A2_126,A2,Space-Time Smackdown,126,Eevee,1D
+A2_127,A2,Space-Time Smackdown,127,Porygon,1D
+A2_128,A2,Space-Time Smackdown,128,Porygon2,2D
+A2_129,A2,Space-Time Smackdown,129,Porygon-Z,3D
+A2_130,A2,Space-Time Smackdown,130,Aipom,1D
+A2_131,A2,Space-Time Smackdown,131,Ambipom,1D
+A2_132,A2,Space-Time Smackdown,132,Starly,1D
+A2_133,A2,Space-Time Smackdown,133,Staravia,1D
+A2_134,A2,Space-Time Smackdown,134,Staraptor,2D
+A2_135,A2,Space-Time Smackdown,135,Bidoof,1D
+A2_136,A2,Space-Time Smackdown,136,Bibarel,1D
+A2_137,A2,Space-Time Smackdown,137,Buneary,1D
+A2_138,A2,Space-Time Smackdown,138,Lopunny,1D
+A2_139,A2,Space-Time Smackdown,139,Glameow,1D
+A2_140,A2,Space-Time Smackdown,140,Purugly,2D
+A2_141,A2,Space-Time Smackdown,141,Chatot,1D
+A2_142,A2,Space-Time Smackdown,142,Fan Rotom,1D
+A2_143,A2,Space-Time Smackdown,143,Regigigas,3D
+A2_144,A2,Space-Time Smackdown,144,Skull Fossil,1D
+A2_145,A2,Space-Time Smackdown,145,Armor Fossil,1D
+A2_146,A2,Space-Time Smackdown,146,Pokémon Communication,2D
+A2_147,A2,Space-Time Smackdown,147,Giant Cape,2D
+A2_148,A2,Space-Time Smackdown,148,Rocky Helmet,2D
+A2_149,A2,Space-Time Smackdown,149,Lum Berry,2D
+A2_150,A2,Space-Time Smackdown,150,Cyrus,2D
+A2_151,A2,Space-Time Smackdown,151,Team Galactic Grunt,2D
+A2_152,A2,Space-Time Smackdown,152,Cynthia,2D
+A2_153,A2,Space-Time Smackdown,153,Volkner,2D
+A2_154,A2,Space-Time Smackdown,154,Dawn,2D
+A2_155,A2,Space-Time Smackdown,155,Mars,2D
+A2a_1,A2a,Triumphant Light,1,Heracross,2D
+A2a_2,A2a,Triumphant Light,2,Burmy,1D
+A2a_3,A2a,Triumphant Light,3,Mothim,2D
+A2a_4,A2a,Triumphant Light,4,Combee,1D
+A2a_5,A2a,Triumphant Light,5,Vespiquen,2D
+A2a_6,A2a,Triumphant Light,6,Cherubi,1D
+A2a_7,A2a,Triumphant Light,7,Cherrim,2D
+A2a_8,A2a,Triumphant Light,8,Cherrim,2D
+A2a_9,A2a,Triumphant Light,9,Carnivine,3D
+A2a_10,A2a,Triumphant Light,10,Leafeon ex,4D
+A2a_11,A2a,Triumphant Light,11,Houndour,1D
+A2a_12,A2a,Triumphant Light,12,Houndoom,2D
+A2a_13,A2a,Triumphant Light,13,Heatran,3D
+A2a_14,A2a,Triumphant Light,14,Marill,1D
+A2a_15,A2a,Triumphant Light,15,Azumarill,1D
+A2a_16,A2a,Triumphant Light,16,Barboach,1D
+A2a_17,A2a,Triumphant Light,17,Whiscash,2D
+A2a_18,A2a,Triumphant Light,18,Snorunt,1D
+A2a_19,A2a,Triumphant Light,19,Froslass,2D
+A2a_20,A2a,Triumphant Light,20,Snover,1D
+A2a_21,A2a,Triumphant Light,21,Abomasnow,3D
+A2a_22,A2a,Triumphant Light,22,Glaceon ex,4D
+A2a_23,A2a,Triumphant Light,23,Palkia,3D
+A2a_24,A2a,Triumphant Light,24,Phione,2D
+A2a_25,A2a,Triumphant Light,25,Pikachu,1D
+A2a_26,A2a,Triumphant Light,26,Raichu,3D
+A2a_27,A2a,Triumphant Light,27,Electrike,1D
+A2a_28,A2a,Triumphant Light,28,Manectric,2D
+A2a_29,A2a,Triumphant Light,29,Clefairy,1D
+A2a_30,A2a,Triumphant Light,30,Clefable,2D
+A2a_31,A2a,Triumphant Light,31,Gastly,1D
+A2a_32,A2a,Triumphant Light,32,Haunter,1D
+A2a_33,A2a,Triumphant Light,33,Gengar,2D
+A2a_34,A2a,Triumphant Light,34,Unown,2D
+A2a_35,A2a,Triumphant Light,35,Rotom,3D
+A2a_36,A2a,Triumphant Light,36,Sudowoodo,2D
+A2a_37,A2a,Triumphant Light,37,Phanpy,1D
+A2a_38,A2a,Triumphant Light,38,Donphan,2D
+A2a_39,A2a,Triumphant Light,39,Larvitar,1D
+A2a_40,A2a,Triumphant Light,40,Pupitar,2D
+A2a_41,A2a,Triumphant Light,41,Tyranitar,3D
+A2a_42,A2a,Triumphant Light,42,Nosepass,1D
+A2a_43,A2a,Triumphant Light,43,Meditite,1D
+A2a_44,A2a,Triumphant Light,44,Medicham,2D
+A2a_45,A2a,Triumphant Light,45,Gible,1D
+A2a_46,A2a,Triumphant Light,46,Gabite,1D
+A2a_47,A2a,Triumphant Light,47,Garchomp ex,4D
+A2a_48,A2a,Triumphant Light,48,Zubat,1D
+A2a_49,A2a,Triumphant Light,49,Golbat,1D
+A2a_50,A2a,Triumphant Light,50,Crobat,3D
+A2a_51,A2a,Triumphant Light,51,Croagunk,1D
+A2a_52,A2a,Triumphant Light,52,Toxicroak,2D
+A2a_53,A2a,Triumphant Light,53,Magnemite,1D
+A2a_54,A2a,Triumphant Light,54,Magneton,1D
+A2a_55,A2a,Triumphant Light,55,Magnezone,3D
+A2a_56,A2a,Triumphant Light,56,Mawile,1D
+A2a_57,A2a,Triumphant Light,57,Probopass ex,4D
+A2a_58,A2a,Triumphant Light,58,Bronzor,1D
+A2a_59,A2a,Triumphant Light,59,Bronzong,2D
+A2a_60,A2a,Triumphant Light,60,Dialga,3D
+A2a_61,A2a,Triumphant Light,61,Giratina,3D
+A2a_62,A2a,Triumphant Light,62,Eevee,1D
+A2a_63,A2a,Triumphant Light,63,Snorlax,2D
+A2a_64,A2a,Triumphant Light,64,Hoothoot,1D
+A2a_65,A2a,Triumphant Light,65,Noctowl,2D
+A2a_66,A2a,Triumphant Light,66,Starly,1D
+A2a_67,A2a,Triumphant Light,67,Staravia,1D
+A2a_68,A2a,Triumphant Light,68,Staraptor,2D
+A2a_69,A2a,Triumphant Light,69,Shaymin,3D
+A2a_70,A2a,Triumphant Light,70,Arceus,3D
+A2a_71,A2a,Triumphant Light,71,Arceus ex,4D
+A2a_72,A2a,Triumphant Light,72,Irida,2D
+A2a_73,A2a,Triumphant Light,73,Celestic Town Elder,2D
+A2a_74,A2a,Triumphant Light,74,Barry,2D
+A2a_75,A2a,Triumphant Light,75,Adaman,2D
+A2b_1,A2b,Shining Revelry,1,Weedle,1D
+A2b_2,A2b,Shining Revelry,2,Kakuna,2D
+A2b_3,A2b,Shining Revelry,3,Beedrill ex,4D
+A2b_4,A2b,Shining Revelry,4,Pinsir,1D
+A2b_5,A2b,Shining Revelry,5,Sprigatito,1D
+A2b_6,A2b,Shining Revelry,6,Floragato,2D
+A2b_7,A2b,Shining Revelry,7,Meowscarada,3D
+A2b_8,A2b,Shining Revelry,8,Charmander,1D
+A2b_9,A2b,Shining Revelry,9,Charmeleon,2D
+A2b_10,A2b,Shining Revelry,10,Charizard ex,4D
+A2b_11,A2b,Shining Revelry,11,Magmar,1D
+A2b_12,A2b,Shining Revelry,12,Magmortar,3D
+A2b_13,A2b,Shining Revelry,13,Paldean Tauros,2D
+A2b_14,A2b,Shining Revelry,14,Tentacool,1D
+A2b_15,A2b,Shining Revelry,15,Tentacruel,2D
+A2b_16,A2b,Shining Revelry,16,Buizel,1D
+A2b_17,A2b,Shining Revelry,17,Floatzel,2D
+A2b_18,A2b,Shining Revelry,18,Wiglett,1D
+A2b_19,A2b,Shining Revelry,19,Wugtrio ex,4D
+A2b_20,A2b,Shining Revelry,20,Dondozo,3D
+A2b_21,A2b,Shining Revelry,21,Tatsugiri,2D
+A2b_22,A2b,Shining Revelry,22,Pikachu ex,4D
+A2b_23,A2b,Shining Revelry,23,Voltorb,1D
+A2b_24,A2b,Shining Revelry,24,Electrode,2D
+A2b_25,A2b,Shining Revelry,25,Pachirisu,2D
+A2b_26,A2b,Shining Revelry,26,Pawmi,1D
+A2b_27,A2b,Shining Revelry,27,Pawmo,2D
+A2b_28,A2b,Shining Revelry,28,Pawmot,3D
+A2b_29,A2b,Shining Revelry,29,Abra,1D
+A2b_30,A2b,Shining Revelry,30,Kadabra,2D
+A2b_31,A2b,Shining Revelry,31,Alakazam,3D
+A2b_32,A2b,Shining Revelry,32,Mr. Mime,1D
+A2b_33,A2b,Shining Revelry,33,Drifloon,1D
+A2b_34,A2b,Shining Revelry,34,Drifblim,2D
+A2b_35,A2b,Shining Revelry,35,Giratina ex,4D
+A2b_36,A2b,Shining Revelry,36,Gimmighoul,1D
+A2b_37,A2b,Shining Revelry,37,Machop,1D
+A2b_38,A2b,Shining Revelry,38,Machoke,1D
+A2b_39,A2b,Shining Revelry,39,Machamp,3D
+A2b_40,A2b,Shining Revelry,40,Hitmonlee,1D
+A2b_41,A2b,Shining Revelry,41,Hitmonchan,1D
+A2b_42,A2b,Shining Revelry,42,Riolu,1D
+A2b_43,A2b,Shining Revelry,43,Lucario ex,4D
+A2b_44,A2b,Shining Revelry,44,Flamigo,2D
+A2b_45,A2b,Shining Revelry,45,Ekans,1D
+A2b_46,A2b,Shining Revelry,46,Arbok,2D
+A2b_47,A2b,Shining Revelry,47,Paldean Wooper,1D
+A2b_48,A2b,Shining Revelry,48,Paldean Clodsire ex,4D
+A2b_49,A2b,Shining Revelry,49,Spiritomb,2D
+A2b_50,A2b,Shining Revelry,50,Shroodle,1D
+A2b_51,A2b,Shining Revelry,51,Grafaiai,3D
+A2b_52,A2b,Shining Revelry,52,Tinkatink,1D
+A2b_53,A2b,Shining Revelry,53,Tinkatuff,2D
+A2b_54,A2b,Shining Revelry,54,Tinkaton ex,4D
+A2b_55,A2b,Shining Revelry,55,Varoom,1D
+A2b_56,A2b,Shining Revelry,56,Revavroom,2D
+A2b_57,A2b,Shining Revelry,57,Gholdengo,3D
+A2b_58,A2b,Shining Revelry,58,Rattata,1D
+A2b_59,A2b,Shining Revelry,59,Raticate,1D
+A2b_60,A2b,Shining Revelry,60,Jigglypuff,1D
+A2b_61,A2b,Shining Revelry,61,Wigglytuff,3D
+A2b_62,A2b,Shining Revelry,62,Lickitung,1D
+A2b_63,A2b,Shining Revelry,63,Lickilicky,1D
+A2b_64,A2b,Shining Revelry,64,Bidoof,1D
+A2b_65,A2b,Shining Revelry,65,Bibarel ex,4D
+A2b_66,A2b,Shining Revelry,66,Buneary,1D
+A2b_67,A2b,Shining Revelry,67,Lopunny,1D
+A2b_68,A2b,Shining Revelry,68,Cyclizar,2D
+A2b_69,A2b,Shining Revelry,69,Iono,2D
+A2b_70,A2b,Shining Revelry,70,Pokémon Center Lady,2D
+A2b_71,A2b,Shining Revelry,71,Red,2D
+A2b_72,A2b,Shining Revelry,72,Team Rocket Grunt,2D
+A3_1,A3,Celestial Guardians,1,Exeggcute,1D
+A3_2,A3,Celestial Guardians,2,Alolan Exeggutor,3D
+A3_3,A3,Celestial Guardians,3,Surskit,1D
+A3_4,A3,Celestial Guardians,4,Masquerain,2D
+A3_5,A3,Celestial Guardians,5,Maractus,1D
+A3_6,A3,Celestial Guardians,6,Karrablast,1D
+A3_7,A3,Celestial Guardians,7,Phantump,1D
+A3_8,A3,Celestial Guardians,8,Trevenant,2D
+A3_9,A3,Celestial Guardians,9,Rowlet,1D
+A3_10,A3,Celestial Guardians,10,Rowlet,1D
+A3_11,A3,Celestial Guardians,11,Dartrix,2D
+A3_12,A3,Celestial Guardians,12,Decidueye ex,4D
+A3_13,A3,Celestial Guardians,13,Grubbin,1D
+A3_14,A3,Celestial Guardians,14,Fomantis,1D
+A3_15,A3,Celestial Guardians,15,Lurantis,2D
+A3_16,A3,Celestial Guardians,16,Morelull,1D
+A3_17,A3,Celestial Guardians,17,Shiinotic,2D
+A3_18,A3,Celestial Guardians,18,Bounsweet,1D
+A3_19,A3,Celestial Guardians,19,Steenee,2D
+A3_20,A3,Celestial Guardians,20,Tsareena,3D
+A3_21,A3,Celestial Guardians,21,Wimpod,1D
+A3_22,A3,Celestial Guardians,22,Golisopod,3D
+A3_23,A3,Celestial Guardians,23,Dhelmise ex,4D
+A3_24,A3,Celestial Guardians,24,Tapu Bulu,3D
+A3_25,A3,Celestial Guardians,25,Growlithe,1D
+A3_26,A3,Celestial Guardians,26,Arcanine,2D
+A3_27,A3,Celestial Guardians,27,Alolan Marowak,2D
+A3_28,A3,Celestial Guardians,28,Fletchinder,1D
+A3_29,A3,Celestial Guardians,29,Talonflame,3D
+A3_30,A3,Celestial Guardians,30,Litten,1D
+A3_31,A3,Celestial Guardians,31,Litten,1D
+A3_32,A3,Celestial Guardians,32,Torracat,2D
+A3_33,A3,Celestial Guardians,33,Incineroar ex,4D
+A3_34,A3,Celestial Guardians,34,Oricorio,2D
+A3_35,A3,Celestial Guardians,35,Salandit,1D
+A3_36,A3,Celestial Guardians,36,Salazzle,1D
+A3_37,A3,Celestial Guardians,37,Turtonator,3D
+A3_38,A3,Celestial Guardians,38,Alolan Sandshrew,1D
+A3_39,A3,Celestial Guardians,39,Alolan Sandslash,2D
+A3_40,A3,Celestial Guardians,40,Alolan Vulpix,1D
+A3_41,A3,Celestial Guardians,41,Alolan Ninetales,3D
+A3_42,A3,Celestial Guardians,42,Shellder,1D
+A3_43,A3,Celestial Guardians,43,Cloyster,2D
+A3_44,A3,Celestial Guardians,44,Lapras,2D
+A3_45,A3,Celestial Guardians,45,Popplio,1D
+A3_46,A3,Celestial Guardians,46,Popplio,1D
+A3_47,A3,Celestial Guardians,47,Brionne,2D
+A3_48,A3,Celestial Guardians,48,Primarina,3D
+A3_49,A3,Celestial Guardians,49,Crabominable ex,4D
+A3_50,A3,Celestial Guardians,50,Wishiwashi,1D
+A3_51,A3,Celestial Guardians,51,Wishiwashi ex,4D
+A3_52,A3,Celestial Guardians,52,Dewpider,1D
+A3_53,A3,Celestial Guardians,53,Araquanid,2D
+A3_54,A3,Celestial Guardians,54,Pyukumuku,1D
+A3_55,A3,Celestial Guardians,55,Bruxish,1D
+A3_56,A3,Celestial Guardians,56,Tapu Fini,3D
+A3_57,A3,Celestial Guardians,57,Pikachu,1D
+A3_58,A3,Celestial Guardians,58,Alolan Raichu ex,4D
+A3_59,A3,Celestial Guardians,59,Alolan Geodude,1D
+A3_60,A3,Celestial Guardians,60,Alolan Graveler,2D
+A3_61,A3,Celestial Guardians,61,Alolan Golem,3D
+A3_62,A3,Celestial Guardians,62,Helioptile,1D
+A3_63,A3,Celestial Guardians,63,Heliolisk,1D
+A3_64,A3,Celestial Guardians,64,Charjabug,2D
+A3_65,A3,Celestial Guardians,65,Vikavolt,3D
+A3_66,A3,Celestial Guardians,66,Oricorio,3D
+A3_67,A3,Celestial Guardians,67,Togedemaru,1D
+A3_68,A3,Celestial Guardians,68,Tapu Koko,3D
+A3_69,A3,Celestial Guardians,69,Mr. Mime,2D
+A3_70,A3,Celestial Guardians,70,Sableye,2D
+A3_71,A3,Celestial Guardians,71,Spoink,1D
+A3_72,A3,Celestial Guardians,72,Grumpig,2D
+A3_73,A3,Celestial Guardians,73,Lunatone,1D
+A3_74,A3,Celestial Guardians,74,Shuppet,1D
+A3_75,A3,Celestial Guardians,75,Banette,1D
+A3_76,A3,Celestial Guardians,76,Oricorio,2D
+A3_77,A3,Celestial Guardians,77,Oricorio,2D
+A3_78,A3,Celestial Guardians,78,Cutiefly,1D
+A3_79,A3,Celestial Guardians,79,Ribombee,1D
+A3_80,A3,Celestial Guardians,80,Comfey,3D
+A3_81,A3,Celestial Guardians,81,Sandygast,1D
+A3_82,A3,Celestial Guardians,82,Palossand,3D
+A3_83,A3,Celestial Guardians,83,Mimikyu,1D
+A3_84,A3,Celestial Guardians,84,Tapu Lele,3D
+A3_85,A3,Celestial Guardians,85,Cosmog,1D
+A3_86,A3,Celestial Guardians,86,Cosmoem,2D
+A3_87,A3,Celestial Guardians,87,Lunala ex,4D
+A3_88,A3,Celestial Guardians,88,Necrozma,3D
+A3_89,A3,Celestial Guardians,89,Cubone,1D
+A3_90,A3,Celestial Guardians,90,Makuhita,1D
+A3_91,A3,Celestial Guardians,91,Hariyama,2D
+A3_92,A3,Celestial Guardians,92,Solrock,1D
+A3_93,A3,Celestial Guardians,93,Drilbur,1D
+A3_94,A3,Celestial Guardians,94,Timburr,1D
+A3_95,A3,Celestial Guardians,95,Gurdurr,2D
+A3_96,A3,Celestial Guardians,96,Conkeldurr,3D
+A3_97,A3,Celestial Guardians,97,Crabrawler,1D
+A3_98,A3,Celestial Guardians,98,Rockruff,1D
+A3_99,A3,Celestial Guardians,99,Rockruff,1D
+A3_100,A3,Celestial Guardians,100,Lycanroc,3D
+A3_101,A3,Celestial Guardians,101,Lycanroc,3D
+A3_102,A3,Celestial Guardians,102,Mudbray,1D
+A3_103,A3,Celestial Guardians,103,Mudsdale,2D
+A3_104,A3,Celestial Guardians,104,Passimian ex,4D
+A3_105,A3,Celestial Guardians,105,Minior,2D
+A3_106,A3,Celestial Guardians,106,Alolan Rattata,1D
+A3_107,A3,Celestial Guardians,107,Alolan Raticate,2D
+A3_108,A3,Celestial Guardians,108,Alolan Meowth,1D
+A3_109,A3,Celestial Guardians,109,Alolan Persian,3D
+A3_110,A3,Celestial Guardians,110,Alolan Grimer,1D
+A3_111,A3,Celestial Guardians,111,Alolan Muk ex,4D
+A3_112,A3,Celestial Guardians,112,Absol,3D
+A3_113,A3,Celestial Guardians,113,Trubbish,1D
+A3_114,A3,Celestial Guardians,114,Garbodor,2D
+A3_115,A3,Celestial Guardians,115,Mareanie,1D
+A3_116,A3,Celestial Guardians,116,Toxapex,1D
+A3_117,A3,Celestial Guardians,117,Alolan Diglett,1D
+A3_118,A3,Celestial Guardians,118,Alolan Dugtrio,1D
+A3_119,A3,Celestial Guardians,119,Excadrill,2D
+A3_120,A3,Celestial Guardians,120,Escavalier,2D
+A3_121,A3,Celestial Guardians,121,Klefki,3D
+A3_122,A3,Celestial Guardians,122,Solgaleo ex,4D
+A3_123,A3,Celestial Guardians,123,Magearna,3D
+A3_124,A3,Celestial Guardians,124,Drampa,3D
+A3_125,A3,Celestial Guardians,125,Jangmo-o,1D
+A3_126,A3,Celestial Guardians,126,Hakamo-o,2D
+A3_127,A3,Celestial Guardians,127,Kommo-o,3D
+A3_128,A3,Celestial Guardians,128,Tauros,2D
+A3_129,A3,Celestial Guardians,129,Skitty,1D
+A3_130,A3,Celestial Guardians,130,Delcatty,2D
+A3_131,A3,Celestial Guardians,131,Fletchling,1D
+A3_132,A3,Celestial Guardians,132,Hawlucha,2D
+A3_133,A3,Celestial Guardians,133,Pikipek,1D
+A3_134,A3,Celestial Guardians,134,Trumbeak,1D
+A3_135,A3,Celestial Guardians,135,Toucannon,2D
+A3_136,A3,Celestial Guardians,136,Yungoos,1D
+A3_137,A3,Celestial Guardians,137,Gumshoos,1D
+A3_138,A3,Celestial Guardians,138,Stufful,1D
+A3_139,A3,Celestial Guardians,139,Bewear,3D
+A3_140,A3,Celestial Guardians,140,Oranguru,3D
+A3_141,A3,Celestial Guardians,141,Komala,2D
+A3_142,A3,Celestial Guardians,142,Big Malasada,2D
+A3_143,A3,Celestial Guardians,143,Fishing Net,2D
+A3_144,A3,Celestial Guardians,144,Rare Candy,2D
+A3_145,A3,Celestial Guardians,145,Rotom Dex,2D
+A3_146,A3,Celestial Guardians,146,Poison Barb,2D
+A3_147,A3,Celestial Guardians,147,Leaf Cape,2D
+A3_148,A3,Celestial Guardians,148,Acerola,2D
+A3_149,A3,Celestial Guardians,149,Ilima,2D
+A3_150,A3,Celestial Guardians,150,Kiawe,2D
+A3_151,A3,Celestial Guardians,151,Guzma,2D
+A3_152,A3,Celestial Guardians,152,Lana,2D
+A3_153,A3,Celestial Guardians,153,Sophocles,2D
+A3_154,A3,Celestial Guardians,154,Mallow,2D
+A3_155,A3,Celestial Guardians,155,Lillie,2D
+A3a_1,A3a,Extradimensional Crisis,1,Petilil,1D
+A3a_2,A3a,Extradimensional Crisis,2,Lilligant,1D
+A3a_3,A3a,Extradimensional Crisis,3,Rowlet,1D
+A3a_4,A3a,Extradimensional Crisis,4,Dartrix,2D
+A3a_5,A3a,Extradimensional Crisis,5,Decidueye,3D
+A3a_6,A3a,Extradimensional Crisis,6,Buzzwole ex,4D
+A3a_7,A3a,Extradimensional Crisis,7,Pheromosa,2D
+A3a_8,A3a,Extradimensional Crisis,8,Kartana,1D
+A3a_9,A3a,Extradimensional Crisis,9,Blacephalon,2D
+A3a_10,A3a,Extradimensional Crisis,10,Mantine,1D
+A3a_11,A3a,Extradimensional Crisis,11,Carvanha,1D
+A3a_12,A3a,Extradimensional Crisis,12,Sharpedo,2D
+A3a_13,A3a,Extradimensional Crisis,13,Shinx,1D
+A3a_14,A3a,Extradimensional Crisis,14,Luxio,1D
+A3a_15,A3a,Extradimensional Crisis,15,Luxray,3D
+A3a_16,A3a,Extradimensional Crisis,16,Blitzle,1D
+A3a_17,A3a,Extradimensional Crisis,17,Zebstrika,1D
+A3a_18,A3a,Extradimensional Crisis,18,Emolga,1D
+A3a_19,A3a,Extradimensional Crisis,19,Tapu Koko ex,4D
+A3a_20,A3a,Extradimensional Crisis,20,Xurkitree,2D
+A3a_21,A3a,Extradimensional Crisis,21,Zeraora,3D
+A3a_22,A3a,Extradimensional Crisis,22,Clefairy,1D
+A3a_23,A3a,Extradimensional Crisis,23,Clefable,2D
+A3a_24,A3a,Extradimensional Crisis,24,Phantump,1D
+A3a_25,A3a,Extradimensional Crisis,25,Trevenant,1D
+A3a_26,A3a,Extradimensional Crisis,26,Morelull,1D
+A3a_27,A3a,Extradimensional Crisis,27,Shiinotic,3D
+A3a_28,A3a,Extradimensional Crisis,28,Meditite,1D
+A3a_29,A3a,Extradimensional Crisis,29,Medicham,2D
+A3a_30,A3a,Extradimensional Crisis,30,Baltoy,1D
+A3a_31,A3a,Extradimensional Crisis,31,Claydol,2D
+A3a_32,A3a,Extradimensional Crisis,32,Rockruff,1D
+A3a_33,A3a,Extradimensional Crisis,33,Lycanroc ex,4D
+A3a_34,A3a,Extradimensional Crisis,34,Passimian,1D
+A3a_35,A3a,Extradimensional Crisis,35,Sandygast,1D
+A3a_36,A3a,Extradimensional Crisis,36,Palossand,2D
+A3a_37,A3a,Extradimensional Crisis,37,Alolan Meowth,1D
+A3a_38,A3a,Extradimensional Crisis,38,Alolan Persian,2D
+A3a_39,A3a,Extradimensional Crisis,39,Sandile,1D
+A3a_40,A3a,Extradimensional Crisis,40,Krokorok,1D
+A3a_41,A3a,Extradimensional Crisis,41,Krookodile,2D
+A3a_42,A3a,Extradimensional Crisis,42,Nihilego,3D
+A3a_43,A3a,Extradimensional Crisis,43,Guzzlord ex,4D
+A3a_44,A3a,Extradimensional Crisis,44,Poipole,1D
+A3a_45,A3a,Extradimensional Crisis,45,Naganadel,3D
+A3a_46,A3a,Extradimensional Crisis,46,Alolan Diglett,1D
+A3a_47,A3a,Extradimensional Crisis,47,Alolan Dugtrio ex,4D
+A3a_48,A3a,Extradimensional Crisis,48,Aron,1D
+A3a_49,A3a,Extradimensional Crisis,49,Lairon,1D
+A3a_50,A3a,Extradimensional Crisis,50,Aggron,2D
+A3a_51,A3a,Extradimensional Crisis,51,Ferroseed,1D
+A3a_52,A3a,Extradimensional Crisis,52,Ferrothorn,2D
+A3a_53,A3a,Extradimensional Crisis,53,Stakataka,2D
+A3a_54,A3a,Extradimensional Crisis,54,Lillipup,1D
+A3a_55,A3a,Extradimensional Crisis,55,Herdier,1D
+A3a_56,A3a,Extradimensional Crisis,56,Stoutland,2D
+A3a_57,A3a,Extradimensional Crisis,57,Stufful,1D
+A3a_58,A3a,Extradimensional Crisis,58,Bewear,2D
+A3a_59,A3a,Extradimensional Crisis,59,Oranguru,1D
+A3a_60,A3a,Extradimensional Crisis,60,Type: Null,2D
+A3a_61,A3a,Extradimensional Crisis,61,Silvally,3D
+A3a_62,A3a,Extradimensional Crisis,62,Celesteela,3D
+A3a_63,A3a,Extradimensional Crisis,63,Beast Wall,2D
+A3a_64,A3a,Extradimensional Crisis,64,Repel,2D
+A3a_65,A3a,Extradimensional Crisis,65,Electrical Cord,2D
+A3a_66,A3a,Extradimensional Crisis,66,Beastite,2D
+A3a_67,A3a,Extradimensional Crisis,67,Gladion,2D
+A3a_68,A3a,Extradimensional Crisis,68,Looker,2D
+A3a_69,A3a,Extradimensional Crisis,69,Lusamine,2D
+A3b_1,A3b,Eevee Grove,1,Tropius,2D
+A3b_2,A3b,Eevee Grove,2,Leafeon,3D
+A3b_3,A3b,Eevee Grove,3,Bounsweet,1D
+A3b_4,A3b,Eevee Grove,4,Steenee,1D
+A3b_5,A3b,Eevee Grove,5,Tsareena,2D
+A3b_6,A3b,Eevee Grove,6,Applin,1D
+A3b_7,A3b,Eevee Grove,7,Appletun,2D
+A3b_8,A3b,Eevee Grove,8,Flareon,3D
+A3b_9,A3b,Eevee Grove,9,Flareon ex,4D
+A3b_10,A3b,Eevee Grove,10,Torkoal,1D
+A3b_11,A3b,Eevee Grove,11,Litten,1D
+A3b_12,A3b,Eevee Grove,12,Torracat,1D
+A3b_13,A3b,Eevee Grove,13,Incineroar,2D
+A3b_14,A3b,Eevee Grove,14,Salandit,1D
+A3b_15,A3b,Eevee Grove,15,Salazzle,2D
+A3b_16,A3b,Eevee Grove,16,Vaporeon,3D
+A3b_17,A3b,Eevee Grove,17,Glaceon,3D
+A3b_18,A3b,Eevee Grove,18,Vanillite,1D
+A3b_19,A3b,Eevee Grove,19,Vanillish,1D
+A3b_20,A3b,Eevee Grove,20,Vanilluxe,2D
+A3b_21,A3b,Eevee Grove,21,Alomomola,1D
+A3b_22,A3b,Eevee Grove,22,Popplio,1D
+A3b_23,A3b,Eevee Grove,23,Brionne,1D
+A3b_24,A3b,Eevee Grove,24,Primarina ex,4D
+A3b_25,A3b,Eevee Grove,25,Jolteon,3D
+A3b_26,A3b,Eevee Grove,26,Joltik,1D
+A3b_27,A3b,Eevee Grove,27,Galvantula,2D
+A3b_28,A3b,Eevee Grove,28,Espeon,3D
+A3b_29,A3b,Eevee Grove,29,Woobat,1D
+A3b_30,A3b,Eevee Grove,30,Swoobat,2D
+A3b_31,A3b,Eevee Grove,31,Swirlix,1D
+A3b_32,A3b,Eevee Grove,32,Slurpuff,2D
+A3b_33,A3b,Eevee Grove,33,Sylveon,3D
+A3b_34,A3b,Eevee Grove,34,Sylveon ex,4D
+A3b_35,A3b,Eevee Grove,35,Mimikyu,2D
+A3b_36,A3b,Eevee Grove,36,Milcery,1D
+A3b_37,A3b,Eevee Grove,37,Alcremie,2D
+A3b_38,A3b,Eevee Grove,38,Barboach,1D
+A3b_39,A3b,Eevee Grove,39,Whiscash,2D
+A3b_40,A3b,Eevee Grove,40,Mienfoo,1D
+A3b_41,A3b,Eevee Grove,41,Mienshao,2D
+A3b_42,A3b,Eevee Grove,42,Carbink,1D
+A3b_43,A3b,Eevee Grove,43,Umbreon,3D
+A3b_44,A3b,Eevee Grove,44,Sableye,1D
+A3b_45,A3b,Eevee Grove,45,Purrloin,1D
+A3b_46,A3b,Eevee Grove,46,Liepard,2D
+A3b_47,A3b,Eevee Grove,47,Mawile,1D
+A3b_48,A3b,Eevee Grove,48,Togedemaru,1D
+A3b_49,A3b,Eevee Grove,49,Meltan,1D
+A3b_50,A3b,Eevee Grove,50,Melmetal,2D
+A3b_51,A3b,Eevee Grove,51,Dratini,1D
+A3b_52,A3b,Eevee Grove,52,Dragonair,1D
+A3b_53,A3b,Eevee Grove,53,Dragonite ex,4D
+A3b_54,A3b,Eevee Grove,54,Drampa,2D
+A3b_55,A3b,Eevee Grove,55,Eevee,1D
+A3b_56,A3b,Eevee Grove,56,Eevee ex,4D
+A3b_57,A3b,Eevee Grove,57,Snorlax ex,4D
+A3b_58,A3b,Eevee Grove,58,Aipom,1D
+A3b_59,A3b,Eevee Grove,59,Ambipom,2D
+A3b_60,A3b,Eevee Grove,60,Chatot,1D
+A3b_61,A3b,Eevee Grove,61,Audino,1D
+A3b_62,A3b,Eevee Grove,62,Minccino,1D
+A3b_63,A3b,Eevee Grove,63,Cinccino,2D
+A3b_64,A3b,Eevee Grove,64,Skwovet,1D
+A3b_65,A3b,Eevee Grove,65,Greedent,2D
+A3b_66,A3b,Eevee Grove,66,Eevee Bag,2D
+A3b_67,A3b,Eevee Grove,67,Leftovers,2D
+A3b_68,A3b,Eevee Grove,68,Hau,2D
+A3b_69,A3b,Eevee Grove,69,Penny,2D
+A4_1,A4,Wisdom of Sea and Sky,1,Oddish,1D
+A4_2,A4,Wisdom of Sea and Sky,2,Gloom,2D
+A4_3,A4,Wisdom of Sea and Sky,3,Bellossom,3D
+A4_4,A4,Wisdom of Sea and Sky,4,Tangela,1D
+A4_5,A4,Wisdom of Sea and Sky,5,Tangrowth,3D
+A4_6,A4,Wisdom of Sea and Sky,6,Scyther,1D
+A4_7,A4,Wisdom of Sea and Sky,7,Pinsir,1D
+A4_8,A4,Wisdom of Sea and Sky,8,Chikorita,1D
+A4_9,A4,Wisdom of Sea and Sky,9,Bayleef,2D
+A4_10,A4,Wisdom of Sea and Sky,10,Meganium,3D
+A4_11,A4,Wisdom of Sea and Sky,11,Ledyba,1D
+A4_12,A4,Wisdom of Sea and Sky,12,Ledian,1D
+A4_13,A4,Wisdom of Sea and Sky,13,Hoppip,1D
+A4_14,A4,Wisdom of Sea and Sky,14,Skiploom,2D
+A4_15,A4,Wisdom of Sea and Sky,15,Jumpluff,3D
+A4_16,A4,Wisdom of Sea and Sky,16,Sunkern,1D
+A4_17,A4,Wisdom of Sea and Sky,17,Sunflora,2D
+A4_18,A4,Wisdom of Sea and Sky,18,Yanma,1D
+A4_19,A4,Wisdom of Sea and Sky,19,Yanmega,2D
+A4_20,A4,Wisdom of Sea and Sky,20,Pineco,1D
+A4_21,A4,Wisdom of Sea and Sky,21,Shuckle ex,4D
+A4_22,A4,Wisdom of Sea and Sky,22,Heracross,3D
+A4_23,A4,Wisdom of Sea and Sky,23,Cherubi,1D
+A4_24,A4,Wisdom of Sea and Sky,24,Cherrim,2D
+A4_25,A4,Wisdom of Sea and Sky,25,Vulpix,1D
+A4_26,A4,Wisdom of Sea and Sky,26,Ninetales,3D
+A4_27,A4,Wisdom of Sea and Sky,27,Cyndaquil,1D
+A4_28,A4,Wisdom of Sea and Sky,28,Quilava,2D
+A4_29,A4,Wisdom of Sea and Sky,29,Typhlosion,3D
+A4_30,A4,Wisdom of Sea and Sky,30,Slugma,1D
+A4_31,A4,Wisdom of Sea and Sky,31,Magcargo,2D
+A4_32,A4,Wisdom of Sea and Sky,32,Magby,3D
+A4_33,A4,Wisdom of Sea and Sky,33,Entei,3D
+A4_34,A4,Wisdom of Sea and Sky,34,Ho-Oh ex,4D
+A4_35,A4,Wisdom of Sea and Sky,35,Darumaka,1D
+A4_36,A4,Wisdom of Sea and Sky,36,Darmanitan,2D
+A4_37,A4,Wisdom of Sea and Sky,37,Heatmor,1D
+A4_38,A4,Wisdom of Sea and Sky,38,Poliwag,1D
+A4_39,A4,Wisdom of Sea and Sky,39,Poliwhirl,2D
+A4_40,A4,Wisdom of Sea and Sky,40,Politoed,3D
+A4_41,A4,Wisdom of Sea and Sky,41,Horsea,1D
+A4_42,A4,Wisdom of Sea and Sky,42,Seadra,2D
+A4_43,A4,Wisdom of Sea and Sky,43,Kingdra ex,4D
+A4_44,A4,Wisdom of Sea and Sky,44,Magikarp,1D
+A4_45,A4,Wisdom of Sea and Sky,45,Gyarados,3D
+A4_46,A4,Wisdom of Sea and Sky,46,Totodile,1D
+A4_47,A4,Wisdom of Sea and Sky,47,Croconaw,2D
+A4_48,A4,Wisdom of Sea and Sky,48,Feraligatr,3D
+A4_49,A4,Wisdom of Sea and Sky,49,Marill,1D
+A4_50,A4,Wisdom of Sea and Sky,50,Azumarill,2D
+A4_51,A4,Wisdom of Sea and Sky,51,Wooper,1D
+A4_52,A4,Wisdom of Sea and Sky,52,Quagsire,2D
+A4_53,A4,Wisdom of Sea and Sky,53,Qwilfish,2D
+A4_54,A4,Wisdom of Sea and Sky,54,Corsola,1D
+A4_55,A4,Wisdom of Sea and Sky,55,Remoraid,1D
+A4_56,A4,Wisdom of Sea and Sky,56,Octillery,3D
+A4_57,A4,Wisdom of Sea and Sky,57,Delibird,2D
+A4_58,A4,Wisdom of Sea and Sky,58,Mantine,2D
+A4_59,A4,Wisdom of Sea and Sky,59,Suicune,3D
+A4_60,A4,Wisdom of Sea and Sky,60,Corphish,1D
+A4_61,A4,Wisdom of Sea and Sky,61,Crawdaunt,3D
+A4_62,A4,Wisdom of Sea and Sky,62,Ducklett,1D
+A4_63,A4,Wisdom of Sea and Sky,63,Swanna,2D
+A4_64,A4,Wisdom of Sea and Sky,64,Chinchou,1D
+A4_65,A4,Wisdom of Sea and Sky,65,Lanturn ex,4D
+A4_66,A4,Wisdom of Sea and Sky,66,Pichu,3D
+A4_67,A4,Wisdom of Sea and Sky,67,Mareep,1D
+A4_68,A4,Wisdom of Sea and Sky,68,Flaaffy,2D
+A4_69,A4,Wisdom of Sea and Sky,69,Ampharos,3D
+A4_70,A4,Wisdom of Sea and Sky,70,Elekid,3D
+A4_71,A4,Wisdom of Sea and Sky,71,Raikou,3D
+A4_72,A4,Wisdom of Sea and Sky,72,Emolga,1D
+A4_73,A4,Wisdom of Sea and Sky,73,Slowpoke,1D
+A4_74,A4,Wisdom of Sea and Sky,74,Slowking,2D
+A4_75,A4,Wisdom of Sea and Sky,75,Smoochum,3D
+A4_76,A4,Wisdom of Sea and Sky,76,Jynx,1D
+A4_77,A4,Wisdom of Sea and Sky,77,Cleffa,3D
+A4_78,A4,Wisdom of Sea and Sky,78,Togepi,1D
+A4_79,A4,Wisdom of Sea and Sky,79,Togetic,2D
+A4_80,A4,Wisdom of Sea and Sky,80,Togekiss,3D
+A4_81,A4,Wisdom of Sea and Sky,81,Natu,1D
+A4_82,A4,Wisdom of Sea and Sky,82,Xatu,3D
+A4_83,A4,Wisdom of Sea and Sky,83,Espeon ex,4D
+A4_84,A4,Wisdom of Sea and Sky,84,Unown,3D
+A4_85,A4,Wisdom of Sea and Sky,85,Unown,3D
+A4_86,A4,Wisdom of Sea and Sky,86,Wobbuffet,1D
+A4_87,A4,Wisdom of Sea and Sky,87,Girafarig,1D
+A4_88,A4,Wisdom of Sea and Sky,88,Snubbull,1D
+A4_89,A4,Wisdom of Sea and Sky,89,Granbull,2D
+A4_90,A4,Wisdom of Sea and Sky,90,Munna,1D
+A4_91,A4,Wisdom of Sea and Sky,91,Musharna,2D
+A4_92,A4,Wisdom of Sea and Sky,92,Onix,1D
+A4_93,A4,Wisdom of Sea and Sky,93,Sudowoodo,1D
+A4_94,A4,Wisdom of Sea and Sky,94,Gligar,1D
+A4_95,A4,Wisdom of Sea and Sky,95,Gliscor,2D
+A4_96,A4,Wisdom of Sea and Sky,96,Swinub,1D
+A4_97,A4,Wisdom of Sea and Sky,97,Piloswine,2D
+A4_98,A4,Wisdom of Sea and Sky,98,Mamoswine,3D
+A4_99,A4,Wisdom of Sea and Sky,99,Phanpy,1D
+A4_100,A4,Wisdom of Sea and Sky,100,Donphan ex,4D
+A4_101,A4,Wisdom of Sea and Sky,101,Tyrogue,3D
+A4_102,A4,Wisdom of Sea and Sky,102,Hitmontop,1D
+A4_103,A4,Wisdom of Sea and Sky,103,Larvitar,1D
+A4_104,A4,Wisdom of Sea and Sky,104,Pupitar,2D
+A4_105,A4,Wisdom of Sea and Sky,105,Binacle,1D
+A4_106,A4,Wisdom of Sea and Sky,106,Barbaracle,2D
+A4_107,A4,Wisdom of Sea and Sky,107,Zubat,1D
+A4_108,A4,Wisdom of Sea and Sky,108,Golbat,2D
+A4_109,A4,Wisdom of Sea and Sky,109,Crobat ex,4D
+A4_110,A4,Wisdom of Sea and Sky,110,Spinarak,1D
+A4_111,A4,Wisdom of Sea and Sky,111,Ariados,2D
+A4_112,A4,Wisdom of Sea and Sky,112,Umbreon ex,4D
+A4_113,A4,Wisdom of Sea and Sky,113,Murkrow,1D
+A4_114,A4,Wisdom of Sea and Sky,114,Honchkrow,2D
+A4_115,A4,Wisdom of Sea and Sky,115,Sneasel,1D
+A4_116,A4,Wisdom of Sea and Sky,116,Weavile,2D
+A4_117,A4,Wisdom of Sea and Sky,117,Houndour,1D
+A4_118,A4,Wisdom of Sea and Sky,118,Houndoom,2D
+A4_119,A4,Wisdom of Sea and Sky,119,Tyranitar,3D
+A4_120,A4,Wisdom of Sea and Sky,120,Absol,2D
+A4_121,A4,Wisdom of Sea and Sky,121,Forretress,2D
+A4_122,A4,Wisdom of Sea and Sky,122,Steelix,3D
+A4_123,A4,Wisdom of Sea and Sky,123,Scizor,3D
+A4_124,A4,Wisdom of Sea and Sky,124,Skarmory ex,4D
+A4_125,A4,Wisdom of Sea and Sky,125,Mawile,1D
+A4_126,A4,Wisdom of Sea and Sky,126,Klink,1D
+A4_127,A4,Wisdom of Sea and Sky,127,Klang,2D
+A4_128,A4,Wisdom of Sea and Sky,128,Klinklang,3D
+A4_129,A4,Wisdom of Sea and Sky,129,Spearow,1D
+A4_130,A4,Wisdom of Sea and Sky,130,Fearow,1D
+A4_131,A4,Wisdom of Sea and Sky,131,Chansey,1D
+A4_132,A4,Wisdom of Sea and Sky,132,Blissey,3D
+A4_133,A4,Wisdom of Sea and Sky,133,Kangaskhan,3D
+A4_134,A4,Wisdom of Sea and Sky,134,Eevee,1D
+A4_135,A4,Wisdom of Sea and Sky,135,Porygon,1D
+A4_136,A4,Wisdom of Sea and Sky,136,Porygon2,2D
+A4_137,A4,Wisdom of Sea and Sky,137,Porygon-Z,3D
+A4_138,A4,Wisdom of Sea and Sky,138,Sentret,1D
+A4_139,A4,Wisdom of Sea and Sky,139,Furret,1D
+A4_140,A4,Wisdom of Sea and Sky,140,Hoothoot,1D
+A4_141,A4,Wisdom of Sea and Sky,141,Noctowl,1D
+A4_142,A4,Wisdom of Sea and Sky,142,Aipom,1D
+A4_143,A4,Wisdom of Sea and Sky,143,Ambipom,1D
+A4_144,A4,Wisdom of Sea and Sky,144,Dunsparce,1D
+A4_145,A4,Wisdom of Sea and Sky,145,Teddiursa,1D
+A4_146,A4,Wisdom of Sea and Sky,146,Ursaring,2D
+A4_147,A4,Wisdom of Sea and Sky,147,Stantler,2D
+A4_148,A4,Wisdom of Sea and Sky,148,Smeargle,2D
+A4_149,A4,Wisdom of Sea and Sky,149,Lugia ex,4D
+A4_150,A4,Wisdom of Sea and Sky,150,Bouffalant,2D
+A4_151,A4,Wisdom of Sea and Sky,151,Elemental Switch,2D
+A4_152,A4,Wisdom of Sea and Sky,152,Squirt Bottle,2D
+A4_153,A4,Wisdom of Sea and Sky,153,Steel Apron,2D
+A4_154,A4,Wisdom of Sea and Sky,154,Dark Pendant,2D
+A4_155,A4,Wisdom of Sea and Sky,155,Rescue Scarf,2D
+A4_156,A4,Wisdom of Sea and Sky,156,Will,2D
+A4_157,A4,Wisdom of Sea and Sky,157,Lyra,2D
+A4_158,A4,Wisdom of Sea and Sky,158,Silver,2D
+A4_159,A4,Wisdom of Sea and Sky,159,Fisher,2D
+A4_160,A4,Wisdom of Sea and Sky,160,Jasmine,2D
+A4_161,A4,Wisdom of Sea and Sky,161,Hiker,2D
+A4a_1,A4a,Secluded Springs,1,Hoppip,1D
+A4a_2,A4a,Secluded Springs,2,Skiploom,2D
+A4a_3,A4a,Secluded Springs,3,Jumpluff ex,4D
+A4a_4,A4a,Secluded Springs,4,Sunkern,1D
+A4a_5,A4a,Secluded Springs,5,Sunflora,2D
+A4a_6,A4a,Secluded Springs,6,Celebi,3D
+A4a_7,A4a,Secluded Springs,7,Durant,1D
+A4a_8,A4a,Secluded Springs,8,Slugma,1D
+A4a_9,A4a,Secluded Springs,9,Magcargo,2D
+A4a_10,A4a,Secluded Springs,10,Entei ex,4D
+A4a_11,A4a,Secluded Springs,11,Fletchinder,1D
+A4a_12,A4a,Secluded Springs,12,Talonflame,2D
+A4a_13,A4a,Secluded Springs,13,Poliwag,1D
+A4a_14,A4a,Secluded Springs,14,Poliwhirl,2D
+A4a_15,A4a,Secluded Springs,15,Tentacool,1D
+A4a_16,A4a,Secluded Springs,16,Tentacruel,2D
+A4a_17,A4a,Secluded Springs,17,Slowpoke,1D
+A4a_18,A4a,Secluded Springs,18,Slowking,2D
+A4a_19,A4a,Secluded Springs,19,Jynx,1D
+A4a_20,A4a,Secluded Springs,20,Suicune ex,4D
+A4a_21,A4a,Secluded Springs,21,Feebas,1D
+A4a_22,A4a,Secluded Springs,22,Milotic,3D
+A4a_23,A4a,Secluded Springs,23,Mantyke,3D
+A4a_24,A4a,Secluded Springs,24,Cryogonal,1D
+A4a_25,A4a,Secluded Springs,25,Raikou ex,4D
+A4a_26,A4a,Secluded Springs,26,Tynamo,1D
+A4a_27,A4a,Secluded Springs,27,Eelektrik,1D
+A4a_28,A4a,Secluded Springs,28,Eelektross,2D
+A4a_29,A4a,Secluded Springs,29,Stunfisk,1D
+A4a_30,A4a,Secluded Springs,30,Yamper,1D
+A4a_31,A4a,Secluded Springs,31,Boltund,3D
+A4a_32,A4a,Secluded Springs,32,Misdreavus,1D
+A4a_33,A4a,Secluded Springs,33,Mismagius,2D
+A4a_34,A4a,Secluded Springs,34,Galarian Corsola,1D
+A4a_35,A4a,Secluded Springs,35,Galarian Cursola,3D
+A4a_36,A4a,Secluded Springs,36,Latias,3D
+A4a_37,A4a,Secluded Springs,37,Latios,3D
+A4a_38,A4a,Secluded Springs,38,Frillish,1D
+A4a_39,A4a,Secluded Springs,39,Jellicent,2D
+A4a_40,A4a,Secluded Springs,40,Diglett,1D
+A4a_41,A4a,Secluded Springs,41,Dugtrio,2D
+A4a_42,A4a,Secluded Springs,42,Poliwrath ex,4D
+A4a_43,A4a,Secluded Springs,43,Phanpy,1D
+A4a_44,A4a,Secluded Springs,44,Donphan,2D
+A4a_45,A4a,Secluded Springs,45,Relicanth,1D
+A4a_46,A4a,Secluded Springs,46,Dwebble,1D
+A4a_47,A4a,Secluded Springs,47,Crustle,2D
+A4a_48,A4a,Secluded Springs,48,Seviper,1D
+A4a_49,A4a,Secluded Springs,49,Zorua,1D
+A4a_50,A4a,Secluded Springs,50,Zoroark,3D
+A4a_51,A4a,Secluded Springs,51,Inkay,1D
+A4a_52,A4a,Secluded Springs,52,Malamar,2D
+A4a_53,A4a,Secluded Springs,53,Skrelp,1D
+A4a_54,A4a,Secluded Springs,54,Dragalge,1D
+A4a_55,A4a,Secluded Springs,55,Altaria,3D
+A4a_56,A4a,Secluded Springs,56,Farfetch'd,1D
+A4a_57,A4a,Secluded Springs,57,Lickitung,1D
+A4a_58,A4a,Secluded Springs,58,Lickilicky,2D
+A4a_59,A4a,Secluded Springs,59,Igglybuff,3D
+A4a_60,A4a,Secluded Springs,60,Teddiursa,1D
+A4a_61,A4a,Secluded Springs,61,Ursaring,2D
+A4a_62,A4a,Secluded Springs,62,Miltank,2D
+A4a_63,A4a,Secluded Springs,63,Azurill,3D
+A4a_64,A4a,Secluded Springs,64,Swablu,1D
+A4a_65,A4a,Secluded Springs,65,Zangoose,2D
+A4a_66,A4a,Secluded Springs,66,Fletchling,1D
+A4a_67,A4a,Secluded Springs,67,Inflatable Boat,2D
+A4a_68,A4a,Secluded Springs,68,Memory Light,2D
+A4a_69,A4a,Secluded Springs,69,Whitney,2D
+A4a_70,A4a,Secluded Springs,70,Traveling Merchant,2D
+A4a_71,A4a,Secluded Springs,71,Morty,2D
+A4b_1,A4b,Deluxe Pack Ex,1,Bulbasaur,1D
+A4b_2,A4b,Deluxe Pack Ex,2,Bulbasaur,1D
+A4b_3,A4b,Deluxe Pack Ex,3,Ivysaur,2D
+A4b_4,A4b,Deluxe Pack Ex,4,Ivysaur,2D
+A4b_5,A4b,Deluxe Pack Ex,5,Venusaur ex,4D
+A4b_6,A4b,Deluxe Pack Ex,6,Weedle,1D
+A4b_7,A4b,Deluxe Pack Ex,7,Weedle,1D
+A4b_8,A4b,Deluxe Pack Ex,8,Kakuna,2D
+A4b_9,A4b,Deluxe Pack Ex,9,Kakuna,2D
+A4b_10,A4b,Deluxe Pack Ex,10,Beedrill ex,4D
+A4b_11,A4b,Deluxe Pack Ex,11,Exeggcute,1D
+A4b_12,A4b,Deluxe Pack Ex,12,Exeggcute,1D
+A4b_13,A4b,Deluxe Pack Ex,13,Exeggutor ex,4D
+A4b_14,A4b,Deluxe Pack Ex,14,Hoppip,1D
+A4b_15,A4b,Deluxe Pack Ex,15,Hoppip,1D
+A4b_16,A4b,Deluxe Pack Ex,16,Skiploom,2D
+A4b_17,A4b,Deluxe Pack Ex,17,Skiploom,2D
+A4b_18,A4b,Deluxe Pack Ex,18,Jumpluff,3D
+A4b_19,A4b,Deluxe Pack Ex,19,Jumpluff,3D
+A4b_20,A4b,Deluxe Pack Ex,20,Yanma,1D
+A4b_21,A4b,Deluxe Pack Ex,21,Yanma,1D
+A4b_22,A4b,Deluxe Pack Ex,22,Yanmega ex,4D
+A4b_23,A4b,Deluxe Pack Ex,23,Shuckle ex,4D
+A4b_24,A4b,Deluxe Pack Ex,24,Celebi ex,4D
+A4b_25,A4b,Deluxe Pack Ex,25,Cherubi,1D
+A4b_26,A4b,Deluxe Pack Ex,26,Cherubi,1D
+A4b_27,A4b,Deluxe Pack Ex,27,Cherrim,2D
+A4b_28,A4b,Deluxe Pack Ex,28,Cherrim,2D
+A4b_29,A4b,Deluxe Pack Ex,29,Leafeon ex,4D
+A4b_30,A4b,Deluxe Pack Ex,30,Shaymin,3D
+A4b_31,A4b,Deluxe Pack Ex,31,Shaymin,3D
+A4b_32,A4b,Deluxe Pack Ex,32,Snivy,1D
+A4b_33,A4b,Deluxe Pack Ex,33,Snivy,1D
+A4b_34,A4b,Deluxe Pack Ex,34,Servine,2D
+A4b_35,A4b,Deluxe Pack Ex,35,Servine,2D
+A4b_36,A4b,Deluxe Pack Ex,36,Serperior,3D
+A4b_37,A4b,Deluxe Pack Ex,37,Serperior,3D
+A4b_38,A4b,Deluxe Pack Ex,38,Rowlet,1D
+A4b_39,A4b,Deluxe Pack Ex,39,Rowlet,1D
+A4b_40,A4b,Deluxe Pack Ex,40,Dartrix,2D
+A4b_41,A4b,Deluxe Pack Ex,41,Dartrix,2D
+A4b_42,A4b,Deluxe Pack Ex,42,Decidueye ex,4D
+A4b_43,A4b,Deluxe Pack Ex,43,Dhelmise ex,4D
+A4b_44,A4b,Deluxe Pack Ex,44,Buzzwole ex,4D
+A4b_45,A4b,Deluxe Pack Ex,45,Pheromosa,2D
+A4b_46,A4b,Deluxe Pack Ex,46,Pheromosa,2D
+A4b_47,A4b,Deluxe Pack Ex,47,Kartana,1D
+A4b_48,A4b,Deluxe Pack Ex,48,Kartana,1D
+A4b_49,A4b,Deluxe Pack Ex,49,Sprigatito,1D
+A4b_50,A4b,Deluxe Pack Ex,50,Sprigatito,1D
+A4b_51,A4b,Deluxe Pack Ex,51,Floragato,2D
+A4b_52,A4b,Deluxe Pack Ex,52,Floragato,2D
+A4b_53,A4b,Deluxe Pack Ex,53,Meowscarada,3D
+A4b_54,A4b,Deluxe Pack Ex,54,Meowscarada,3D
+A4b_55,A4b,Deluxe Pack Ex,55,Charmander,1D
+A4b_56,A4b,Deluxe Pack Ex,56,Charmander,1D
+A4b_57,A4b,Deluxe Pack Ex,57,Charmeleon,2D
+A4b_58,A4b,Deluxe Pack Ex,58,Charmeleon,2D
+A4b_59,A4b,Deluxe Pack Ex,59,Charizard ex,4D
+A4b_60,A4b,Deluxe Pack Ex,60,Charizard ex,4D
+A4b_61,A4b,Deluxe Pack Ex,61,Growlithe,1D
+A4b_62,A4b,Deluxe Pack Ex,62,Growlithe,1D
+A4b_63,A4b,Deluxe Pack Ex,63,Arcanine ex,4D
+A4b_64,A4b,Deluxe Pack Ex,64,Flareon,3D
+A4b_65,A4b,Deluxe Pack Ex,65,Flareon,3D
+A4b_66,A4b,Deluxe Pack Ex,66,Flareon ex,4D
+A4b_67,A4b,Deluxe Pack Ex,67,Moltres ex,4D
+A4b_68,A4b,Deluxe Pack Ex,68,Ho-Oh ex,4D
+A4b_69,A4b,Deluxe Pack Ex,69,Torkoal,1D
+A4b_70,A4b,Deluxe Pack Ex,70,Torkoal,1D
+A4b_71,A4b,Deluxe Pack Ex,71,Chimchar,1D
+A4b_72,A4b,Deluxe Pack Ex,72,Chimchar,1D
+A4b_73,A4b,Deluxe Pack Ex,73,Monferno,2D
+A4b_74,A4b,Deluxe Pack Ex,74,Monferno,2D
+A4b_75,A4b,Deluxe Pack Ex,75,Infernape ex,4D
+A4b_76,A4b,Deluxe Pack Ex,76,Heatran,3D
+A4b_77,A4b,Deluxe Pack Ex,77,Heatran,3D
+A4b_78,A4b,Deluxe Pack Ex,78,Litten,1D
+A4b_79,A4b,Deluxe Pack Ex,79,Litten,1D
+A4b_80,A4b,Deluxe Pack Ex,80,Torracat,2D
+A4b_81,A4b,Deluxe Pack Ex,81,Torracat,2D
+A4b_82,A4b,Deluxe Pack Ex,82,Incineroar ex,4D
+A4b_83,A4b,Deluxe Pack Ex,83,Squirtle,1D
+A4b_84,A4b,Deluxe Pack Ex,84,Squirtle,1D
+A4b_85,A4b,Deluxe Pack Ex,85,Wartortle,2D
+A4b_86,A4b,Deluxe Pack Ex,86,Wartortle,2D
+A4b_87,A4b,Deluxe Pack Ex,87,Blastoise ex,4D
+A4b_88,A4b,Deluxe Pack Ex,88,Horsea,1D
+A4b_89,A4b,Deluxe Pack Ex,89,Horsea,1D
+A4b_90,A4b,Deluxe Pack Ex,90,Seadra,2D
+A4b_91,A4b,Deluxe Pack Ex,91,Seadra,2D
+A4b_92,A4b,Deluxe Pack Ex,92,Kingdra ex,4D
+A4b_93,A4b,Deluxe Pack Ex,93,Staryu,1D
+A4b_94,A4b,Deluxe Pack Ex,94,Staryu,1D
+A4b_95,A4b,Deluxe Pack Ex,95,Starmie ex,4D
+A4b_96,A4b,Deluxe Pack Ex,96,Magikarp,1D
+A4b_97,A4b,Deluxe Pack Ex,97,Magikarp,1D
+A4b_98,A4b,Deluxe Pack Ex,98,Gyarados ex,4D
+A4b_99,A4b,Deluxe Pack Ex,99,Vaporeon,3D
+A4b_100,A4b,Deluxe Pack Ex,100,Vaporeon,3D
+A4b_101,A4b,Deluxe Pack Ex,101,Articuno ex,4D
+A4b_102,A4b,Deluxe Pack Ex,102,Corphish,1D
+A4b_103,A4b,Deluxe Pack Ex,103,Corphish,1D
+A4b_104,A4b,Deluxe Pack Ex,104,Crawdaunt,3D
+A4b_105,A4b,Deluxe Pack Ex,105,Crawdaunt,3D
+A4b_106,A4b,Deluxe Pack Ex,106,Glaceon ex,4D
+A4b_107,A4b,Deluxe Pack Ex,107,Palkia ex,4D
+A4b_108,A4b,Deluxe Pack Ex,108,Manaphy,2D
+A4b_109,A4b,Deluxe Pack Ex,109,Manaphy,2D
+A4b_110,A4b,Deluxe Pack Ex,110,Froakie,1D
+A4b_111,A4b,Deluxe Pack Ex,111,Froakie,1D
+A4b_112,A4b,Deluxe Pack Ex,112,Frogadier,2D
+A4b_113,A4b,Deluxe Pack Ex,113,Frogadier,2D
+A4b_114,A4b,Deluxe Pack Ex,114,Greninja,3D
+A4b_115,A4b,Deluxe Pack Ex,115,Greninja,3D
+A4b_116,A4b,Deluxe Pack Ex,116,Popplio,1D
+A4b_117,A4b,Deluxe Pack Ex,117,Popplio,1D
+A4b_118,A4b,Deluxe Pack Ex,118,Brionne,1D
+A4b_119,A4b,Deluxe Pack Ex,119,Brionne,1D
+A4b_120,A4b,Deluxe Pack Ex,120,Primarina ex,4D
+A4b_121,A4b,Deluxe Pack Ex,121,Crabominable ex,4D
+A4b_122,A4b,Deluxe Pack Ex,122,Wishiwashi,1D
+A4b_123,A4b,Deluxe Pack Ex,123,Wishiwashi,1D
+A4b_124,A4b,Deluxe Pack Ex,124,Wishiwashi ex,4D
+A4b_125,A4b,Deluxe Pack Ex,125,Wiglett,1D
+A4b_126,A4b,Deluxe Pack Ex,126,Wiglett,1D
+A4b_127,A4b,Deluxe Pack Ex,127,Wugtrio ex,4D
+A4b_128,A4b,Deluxe Pack Ex,128,Pikachu,1D
+A4b_129,A4b,Deluxe Pack Ex,129,Pikachu,1D
+A4b_130,A4b,Deluxe Pack Ex,130,Alolan Raichu ex,4D
+A4b_131,A4b,Deluxe Pack Ex,131,Pikachu ex,4D
+A4b_132,A4b,Deluxe Pack Ex,132,Pikachu ex,4D
+A4b_133,A4b,Deluxe Pack Ex,133,Magnemite,1D
+A4b_134,A4b,Deluxe Pack Ex,134,Magnemite,1D
+A4b_135,A4b,Deluxe Pack Ex,135,Magneton,3D
+A4b_136,A4b,Deluxe Pack Ex,136,Magneton,3D
+A4b_137,A4b,Deluxe Pack Ex,137,Magnezone,3D
+A4b_138,A4b,Deluxe Pack Ex,138,Magnezone,3D
+A4b_139,A4b,Deluxe Pack Ex,139,Zapdos ex,4D
+A4b_140,A4b,Deluxe Pack Ex,140,Chinchou,1D
+A4b_141,A4b,Deluxe Pack Ex,141,Chinchou,1D
+A4b_142,A4b,Deluxe Pack Ex,142,Lanturn ex,4D
+A4b_143,A4b,Deluxe Pack Ex,143,Pachirisu,2D
+A4b_144,A4b,Deluxe Pack Ex,144,Pachirisu,2D
+A4b_145,A4b,Deluxe Pack Ex,145,Pachirisu ex,4D
+A4b_146,A4b,Deluxe Pack Ex,146,Oricorio,3D
+A4b_147,A4b,Deluxe Pack Ex,147,Oricorio,3D
+A4b_148,A4b,Deluxe Pack Ex,148,Tapu Koko ex,4D
+A4b_149,A4b,Deluxe Pack Ex,149,Zeraora,3D
+A4b_150,A4b,Deluxe Pack Ex,150,Zeraora,3D
+A4b_151,A4b,Deluxe Pack Ex,151,Gastly,1D
+A4b_152,A4b,Deluxe Pack Ex,152,Gastly,1D
+A4b_153,A4b,Deluxe Pack Ex,153,Haunter,2D
+A4b_154,A4b,Deluxe Pack Ex,154,Haunter,2D
+A4b_155,A4b,Deluxe Pack Ex,155,Gengar ex,4D
+A4b_156,A4b,Deluxe Pack Ex,156,Jynx,1D
+A4b_157,A4b,Deluxe Pack Ex,157,Jynx,1D
+A4b_158,A4b,Deluxe Pack Ex,158,Mewtwo ex,4D
+A4b_159,A4b,Deluxe Pack Ex,159,Mew ex,4D
+A4b_160,A4b,Deluxe Pack Ex,160,Espeon ex,4D
+A4b_161,A4b,Deluxe Pack Ex,161,Misdreavus,1D
+A4b_162,A4b,Deluxe Pack Ex,162,Misdreavus,1D
+A4b_163,A4b,Deluxe Pack Ex,163,Mismagius ex,4D
+A4b_164,A4b,Deluxe Pack Ex,164,Ralts,1D
+A4b_165,A4b,Deluxe Pack Ex,165,Ralts,1D
+A4b_166,A4b,Deluxe Pack Ex,166,Kirlia,1D
+A4b_167,A4b,Deluxe Pack Ex,167,Kirlia,1D
+A4b_168,A4b,Deluxe Pack Ex,168,Gardevoir,3D
+A4b_169,A4b,Deluxe Pack Ex,169,Gardevoir,3D
+A4b_170,A4b,Deluxe Pack Ex,170,Giratina,3D
+A4b_171,A4b,Deluxe Pack Ex,171,Giratina,3D
+A4b_172,A4b,Deluxe Pack Ex,172,Giratina ex,4D
+A4b_173,A4b,Deluxe Pack Ex,173,Swirlix,1D
+A4b_174,A4b,Deluxe Pack Ex,174,Swirlix,1D
+A4b_175,A4b,Deluxe Pack Ex,175,Slurpuff,2D
+A4b_176,A4b,Deluxe Pack Ex,176,Slurpuff,2D
+A4b_177,A4b,Deluxe Pack Ex,177,Sylveon ex,4D
+A4b_178,A4b,Deluxe Pack Ex,178,Oricorio,2D
+A4b_179,A4b,Deluxe Pack Ex,179,Oricorio,2D
+A4b_180,A4b,Deluxe Pack Ex,180,Cosmog,1D
+A4b_181,A4b,Deluxe Pack Ex,181,Cosmog,1D
+A4b_182,A4b,Deluxe Pack Ex,182,Cosmoem,2D
+A4b_183,A4b,Deluxe Pack Ex,183,Cosmoem,2D
+A4b_184,A4b,Deluxe Pack Ex,184,Lunala ex,4D
+A4b_185,A4b,Deluxe Pack Ex,185,Milcery,1D
+A4b_186,A4b,Deluxe Pack Ex,186,Milcery,1D
+A4b_187,A4b,Deluxe Pack Ex,187,Alcremie,2D
+A4b_188,A4b,Deluxe Pack Ex,188,Alcremie,2D
+A4b_189,A4b,Deluxe Pack Ex,189,Machop,1D
+A4b_190,A4b,Deluxe Pack Ex,190,Machop,1D
+A4b_191,A4b,Deluxe Pack Ex,191,Machoke,2D
+A4b_192,A4b,Deluxe Pack Ex,192,Machoke,2D
+A4b_193,A4b,Deluxe Pack Ex,193,Machamp ex,4D
+A4b_194,A4b,Deluxe Pack Ex,194,Cubone,1D
+A4b_195,A4b,Deluxe Pack Ex,195,Cubone,1D
+A4b_196,A4b,Deluxe Pack Ex,196,Marowak ex,4D
+A4b_197,A4b,Deluxe Pack Ex,197,Aerodactyl ex,4D
+A4b_198,A4b,Deluxe Pack Ex,198,Sudowoodo,2D
+A4b_199,A4b,Deluxe Pack Ex,199,Sudowoodo,2D
+A4b_200,A4b,Deluxe Pack Ex,200,Phanpy,1D
+A4b_201,A4b,Deluxe Pack Ex,201,Phanpy,1D
+A4b_202,A4b,Deluxe Pack Ex,202,Donphan ex,4D
+A4b_203,A4b,Deluxe Pack Ex,203,Nosepass,1D
+A4b_204,A4b,Deluxe Pack Ex,204,Nosepass,1D
+A4b_205,A4b,Deluxe Pack Ex,205,Gible,1D
+A4b_206,A4b,Deluxe Pack Ex,206,Gible,1D
+A4b_207,A4b,Deluxe Pack Ex,207,Gabite,1D
+A4b_208,A4b,Deluxe Pack Ex,208,Gabite,1D
+A4b_209,A4b,Deluxe Pack Ex,209,Garchomp ex,4D
+A4b_210,A4b,Deluxe Pack Ex,210,Riolu,1D
+A4b_211,A4b,Deluxe Pack Ex,211,Riolu,1D
+A4b_212,A4b,Deluxe Pack Ex,212,Lucario,3D
+A4b_213,A4b,Deluxe Pack Ex,213,Lucario,3D
+A4b_214,A4b,Deluxe Pack Ex,214,Lucario ex,4D
+A4b_215,A4b,Deluxe Pack Ex,215,Gallade ex,4D
+A4b_216,A4b,Deluxe Pack Ex,216,Drilbur,1D
+A4b_217,A4b,Deluxe Pack Ex,217,Drilbur,1D
+A4b_218,A4b,Deluxe Pack Ex,218,Crabrawler,1D
+A4b_219,A4b,Deluxe Pack Ex,219,Crabrawler,1D
+A4b_220,A4b,Deluxe Pack Ex,220,Rockruff,1D
+A4b_221,A4b,Deluxe Pack Ex,221,Rockruff,1D
+A4b_222,A4b,Deluxe Pack Ex,222,Lycanroc ex,4D
+A4b_223,A4b,Deluxe Pack Ex,223,Passimian ex,4D
+A4b_224,A4b,Deluxe Pack Ex,224,Marshadow,3D
+A4b_225,A4b,Deluxe Pack Ex,225,Marshadow,3D
+A4b_226,A4b,Deluxe Pack Ex,226,Zubat,1D
+A4b_227,A4b,Deluxe Pack Ex,227,Zubat,1D
+A4b_228,A4b,Deluxe Pack Ex,228,Golbat,1D
+A4b_229,A4b,Deluxe Pack Ex,229,Golbat,1D
+A4b_230,A4b,Deluxe Pack Ex,230,Crobat,3D
+A4b_231,A4b,Deluxe Pack Ex,231,Crobat,3D
+A4b_232,A4b,Deluxe Pack Ex,232,Crobat ex,4D
+A4b_233,A4b,Deluxe Pack Ex,233,Alolan Grimer,1D
+A4b_234,A4b,Deluxe Pack Ex,234,Alolan Grimer,1D
+A4b_235,A4b,Deluxe Pack Ex,235,Alolan Muk ex,4D
+A4b_236,A4b,Deluxe Pack Ex,236,Paldean Wooper,1D
+A4b_237,A4b,Deluxe Pack Ex,237,Paldean Wooper,1D
+A4b_238,A4b,Deluxe Pack Ex,238,Paldean Clodsire ex,4D
+A4b_239,A4b,Deluxe Pack Ex,239,Umbreon,3D
+A4b_240,A4b,Deluxe Pack Ex,240,Umbreon,3D
+A4b_241,A4b,Deluxe Pack Ex,241,Umbreon ex,4D
+A4b_242,A4b,Deluxe Pack Ex,242,Sneasel,1D
+A4b_243,A4b,Deluxe Pack Ex,243,Sneasel,1D
+A4b_244,A4b,Deluxe Pack Ex,244,Weavile ex,4D
+A4b_245,A4b,Deluxe Pack Ex,245,Darkrai ex,4D
+A4b_246,A4b,Deluxe Pack Ex,246,Nihilego,3D
+A4b_247,A4b,Deluxe Pack Ex,247,Nihilego,3D
+A4b_248,A4b,Deluxe Pack Ex,248,Guzzlord ex,4D
+A4b_249,A4b,Deluxe Pack Ex,249,Alolan Diglett,1D
+A4b_250,A4b,Deluxe Pack Ex,250,Alolan Diglett,1D
+A4b_251,A4b,Deluxe Pack Ex,251,Alolan Dugtrio ex,4D
+A4b_252,A4b,Deluxe Pack Ex,252,Skarmory ex,4D
+A4b_253,A4b,Deluxe Pack Ex,253,Probopass ex,4D
+A4b_254,A4b,Deluxe Pack Ex,254,Dialga ex,4D
+A4b_255,A4b,Deluxe Pack Ex,255,Excadrill,2D
+A4b_256,A4b,Deluxe Pack Ex,256,Excadrill,2D
+A4b_257,A4b,Deluxe Pack Ex,257,Klefki,3D
+A4b_258,A4b,Deluxe Pack Ex,258,Klefki,3D
+A4b_259,A4b,Deluxe Pack Ex,259,Solgaleo ex,4D
+A4b_260,A4b,Deluxe Pack Ex,260,Magearna,3D
+A4b_261,A4b,Deluxe Pack Ex,261,Magearna,3D
+A4b_262,A4b,Deluxe Pack Ex,262,Tinkatink,1D
+A4b_263,A4b,Deluxe Pack Ex,263,Tinkatink,1D
+A4b_264,A4b,Deluxe Pack Ex,264,Tinkatuff,2D
+A4b_265,A4b,Deluxe Pack Ex,265,Tinkatuff,2D
+A4b_266,A4b,Deluxe Pack Ex,266,Tinkaton ex,4D
+A4b_267,A4b,Deluxe Pack Ex,267,Dratini,1D
+A4b_268,A4b,Deluxe Pack Ex,268,Dratini,1D
+A4b_269,A4b,Deluxe Pack Ex,269,Dragonair,1D
+A4b_270,A4b,Deluxe Pack Ex,270,Dragonair,1D
+A4b_271,A4b,Deluxe Pack Ex,271,Dragonite ex,4D
+A4b_272,A4b,Deluxe Pack Ex,272,Pidgey,1D
+A4b_273,A4b,Deluxe Pack Ex,273,Pidgey,1D
+A4b_274,A4b,Deluxe Pack Ex,274,Pidgeotto,1D
+A4b_275,A4b,Deluxe Pack Ex,275,Pidgeotto,1D
+A4b_276,A4b,Deluxe Pack Ex,276,Pidgeot ex,4D
+A4b_277,A4b,Deluxe Pack Ex,277,Jigglypuff,1D
+A4b_278,A4b,Deluxe Pack Ex,278,Jigglypuff,1D
+A4b_279,A4b,Deluxe Pack Ex,279,Wigglytuff ex,4D
+A4b_280,A4b,Deluxe Pack Ex,280,Farfetch'd,1D
+A4b_281,A4b,Deluxe Pack Ex,281,Farfetch'd,1D
+A4b_282,A4b,Deluxe Pack Ex,282,Lickitung,1D
+A4b_283,A4b,Deluxe Pack Ex,283,Lickitung,1D
+A4b_284,A4b,Deluxe Pack Ex,284,Lickilicky ex,4D
+A4b_285,A4b,Deluxe Pack Ex,285,Eevee,1D
+A4b_286,A4b,Deluxe Pack Ex,286,Eevee,1D
+A4b_287,A4b,Deluxe Pack Ex,287,Eevee ex,4D
+A4b_288,A4b,Deluxe Pack Ex,288,Snorlax ex,4D
+A4b_289,A4b,Deluxe Pack Ex,289,Lugia ex,4D
+A4b_290,A4b,Deluxe Pack Ex,290,Skitty,1D
+A4b_291,A4b,Deluxe Pack Ex,291,Skitty,1D
+A4b_292,A4b,Deluxe Pack Ex,292,Delcatty,2D
+A4b_293,A4b,Deluxe Pack Ex,293,Delcatty,2D
+A4b_294,A4b,Deluxe Pack Ex,294,Bidoof,1D
+A4b_295,A4b,Deluxe Pack Ex,295,Bidoof,1D
+A4b_296,A4b,Deluxe Pack Ex,296,Bibarel ex,4D
+A4b_297,A4b,Deluxe Pack Ex,297,Shaymin,3D
+A4b_298,A4b,Deluxe Pack Ex,298,Shaymin,3D
+A4b_299,A4b,Deluxe Pack Ex,299,Arceus ex,4D
+A4b_300,A4b,Deluxe Pack Ex,300,Type: Null,2D
+A4b_301,A4b,Deluxe Pack Ex,301,Type: Null,2D
+A4b_302,A4b,Deluxe Pack Ex,302,Silvally,3D
+A4b_303,A4b,Deluxe Pack Ex,303,Silvally,3D
+A4b_304,A4b,Deluxe Pack Ex,304,Celesteela,3D
+A4b_305,A4b,Deluxe Pack Ex,305,Celesteela,3D
+A4b_306,A4b,Deluxe Pack Ex,306,Cyclizar,2D
+A4b_307,A4b,Deluxe Pack Ex,307,Cyclizar,2D
+A4b_308,A4b,Deluxe Pack Ex,308,Eevee Bag,2D
+A4b_309,A4b,Deluxe Pack Ex,309,Eevee Bag,2D
+A4b_310,A4b,Deluxe Pack Ex,310,Elemental Switch,2D
+A4b_311,A4b,Deluxe Pack Ex,311,Elemental Switch,2D
+A4b_312,A4b,Deluxe Pack Ex,312,Old Amber,1D
+A4b_313,A4b,Deluxe Pack Ex,313,Old Amber,1D
+A4b_314,A4b,Deluxe Pack Ex,314,Rare Candy,2D
+A4b_315,A4b,Deluxe Pack Ex,315,Rare Candy,2D
+A4b_316,A4b,Deluxe Pack Ex,316,Pokémon Communication,2D
+A4b_317,A4b,Deluxe Pack Ex,317,Pokémon Communication,2D
+A4b_318,A4b,Deluxe Pack Ex,318,Electrical Cord,2D
+A4b_319,A4b,Deluxe Pack Ex,319,Electrical Cord,2D
+A4b_320,A4b,Deluxe Pack Ex,320,Giant Cape,2D
+A4b_321,A4b,Deluxe Pack Ex,321,Giant Cape,2D
+A4b_322,A4b,Deluxe Pack Ex,322,Rocky Helmet,2D
+A4b_323,A4b,Deluxe Pack Ex,323,Rocky Helmet,2D
+A4b_324,A4b,Deluxe Pack Ex,324,Leaf Cape,2D
+A4b_325,A4b,Deluxe Pack Ex,325,Leaf Cape,2D
+A4b_326,A4b,Deluxe Pack Ex,326,Cyrus,2D
+A4b_327,A4b,Deluxe Pack Ex,327,Cyrus,2D
+A4b_328,A4b,Deluxe Pack Ex,328,Erika,2D
+A4b_329,A4b,Deluxe Pack Ex,329,Erika,2D
+A4b_330,A4b,Deluxe Pack Ex,330,Irida,2D
+A4b_331,A4b,Deluxe Pack Ex,331,Irida,2D
+A4b_332,A4b,Deluxe Pack Ex,332,Lyra,2D
+A4b_333,A4b,Deluxe Pack Ex,333,Lyra,2D
+A4b_334,A4b,Deluxe Pack Ex,334,Giovanni,2D
+A4b_335,A4b,Deluxe Pack Ex,335,Giovanni,2D
+A4b_336,A4b,Deluxe Pack Ex,336,Silver,2D
+A4b_337,A4b,Deluxe Pack Ex,337,Silver,2D
+A4b_338,A4b,Deluxe Pack Ex,338,Sabrina,2D
+A4b_339,A4b,Deluxe Pack Ex,339,Sabrina,2D
+A4b_340,A4b,Deluxe Pack Ex,340,Iono,2D
+A4b_341,A4b,Deluxe Pack Ex,341,Iono,2D
+A4b_342,A4b,Deluxe Pack Ex,342,Dawn,2D
+A4b_343,A4b,Deluxe Pack Ex,343,Dawn,2D
+A4b_344,A4b,Deluxe Pack Ex,344,Mars,2D
+A4b_345,A4b,Deluxe Pack Ex,345,Mars,2D
+A4b_346,A4b,Deluxe Pack Ex,346,Leaf,2D
+A4b_347,A4b,Deluxe Pack Ex,347,Leaf,2D
+A4b_348,A4b,Deluxe Pack Ex,348,Lillie,2D
+A4b_349,A4b,Deluxe Pack Ex,349,Lillie,2D
+A4b_350,A4b,Deluxe Pack Ex,350,Lusamine,2D
+A4b_351,A4b,Deluxe Pack Ex,351,Lusamine,2D
+A4b_352,A4b,Deluxe Pack Ex,352,Red,2D
+A4b_353,A4b,Deluxe Pack Ex,353,Red,2D
+B1_1,B1,Mega Rising,1,Pinsir,1D
+B1_2,B1,Mega Rising,2,Mega Pinsir ex,4D
+B1_3,B1,Mega Rising,3,Wurmple,1D
+B1_4,B1,Mega Rising,4,Silcoon,1D
+B1_5,B1,Mega Rising,5,Beautifly,3D
+B1_6,B1,Mega Rising,6,Cascoon,1D
+B1_7,B1,Mega Rising,7,Dustox,3D
+B1_8,B1,Mega Rising,8,Seedot,1D
+B1_9,B1,Mega Rising,9,Nuzleaf,2D
+B1_10,B1,Mega Rising,10,Shiftry,3D
+B1_11,B1,Mega Rising,11,Shroomish,1D
+B1_12,B1,Mega Rising,12,Breloom,2D
+B1_13,B1,Mega Rising,13,Pansage,1D
+B1_14,B1,Mega Rising,14,Simisage,1D
+B1_15,B1,Mega Rising,15,Cottonee,1D
+B1_16,B1,Mega Rising,16,Whimsicott ex,4D
+B1_17,B1,Mega Rising,17,Petilil,1D
+B1_18,B1,Mega Rising,18,Lilligant,3D
+B1_19,B1,Mega Rising,19,Maractus,1D
+B1_20,B1,Mega Rising,20,Virizion,3D
+B1_21,B1,Mega Rising,21,Skiddo,1D
+B1_22,B1,Mega Rising,22,Gogoat,1D
+B1_23,B1,Mega Rising,23,Phantump,1D
+B1_24,B1,Mega Rising,24,Trevenant,2D
+B1_25,B1,Mega Rising,25,Grookey,1D
+B1_26,B1,Mega Rising,26,Thwackey,2D
+B1_27,B1,Mega Rising,27,Rillaboom,3D
+B1_28,B1,Mega Rising,28,Growlithe,1D
+B1_29,B1,Mega Rising,29,Arcanine,2D
+B1_30,B1,Mega Rising,30,Ponyta,1D
+B1_31,B1,Mega Rising,31,Rapidash ex,4D
+B1_32,B1,Mega Rising,32,Ho-Oh,3D
+B1_33,B1,Mega Rising,33,Torchic,1D
+B1_34,B1,Mega Rising,34,Combusken,2D
+B1_35,B1,Mega Rising,35,Blaziken,3D
+B1_36,B1,Mega Rising,36,Mega Blaziken ex,4D
+B1_37,B1,Mega Rising,37,Pansear,1D
+B1_38,B1,Mega Rising,38,Simisear,1D
+B1_39,B1,Mega Rising,39,Darumaka,1D
+B1_40,B1,Mega Rising,40,Darmanitan,2D
+B1_41,B1,Mega Rising,41,Litwick,1D
+B1_42,B1,Mega Rising,42,Lampent,2D
+B1_43,B1,Mega Rising,43,Chandelure,3D
+B1_44,B1,Mega Rising,44,Heatmor,1D
+B1_45,B1,Mega Rising,45,Litleo,1D
+B1_46,B1,Mega Rising,46,Pyroar,3D
+B1_47,B1,Mega Rising,47,Turtonator,2D
+B1_48,B1,Mega Rising,48,Psyduck,1D
+B1_49,B1,Mega Rising,49,Golduck,1D
+B1_50,B1,Mega Rising,50,Magikarp,1D
+B1_51,B1,Mega Rising,51,Gyarados,3D
+B1_52,B1,Mega Rising,52,Mega Gyarados ex,4D
+B1_53,B1,Mega Rising,53,Lotad,1D
+B1_54,B1,Mega Rising,54,Lombre,2D
+B1_55,B1,Mega Rising,55,Ludicolo,3D
+B1_56,B1,Mega Rising,56,Wailmer,1D
+B1_57,B1,Mega Rising,57,Wailord,3D
+B1_58,B1,Mega Rising,58,Corphish,1D
+B1_59,B1,Mega Rising,59,Crawdaunt,2D
+B1_60,B1,Mega Rising,60,Luvdisc,1D
+B1_61,B1,Mega Rising,61,Panpour,1D
+B1_62,B1,Mega Rising,62,Simipour,1D
+B1_63,B1,Mega Rising,63,Tympole,1D
+B1_64,B1,Mega Rising,64,Palpitoad,1D
+B1_65,B1,Mega Rising,65,Seismitoad,2D
+B1_66,B1,Mega Rising,66,Tirtouga,2D
+B1_67,B1,Mega Rising,67,Carracosta,3D
+B1_68,B1,Mega Rising,68,Frillish,1D
+B1_69,B1,Mega Rising,69,Jellicent,3D
+B1_70,B1,Mega Rising,70,Keldeo,3D
+B1_71,B1,Mega Rising,71,Froakie,1D
+B1_72,B1,Mega Rising,72,Frogadier,2D
+B1_73,B1,Mega Rising,73,Greninja ex,4D
+B1_74,B1,Mega Rising,74,Bergmite,1D
+B1_75,B1,Mega Rising,75,Avalugg,2D
+B1_76,B1,Mega Rising,76,Chewtle,1D
+B1_77,B1,Mega Rising,77,Drednaw,2D
+B1_78,B1,Mega Rising,78,Arrokuda,1D
+B1_79,B1,Mega Rising,79,Barraskewda,2D
+B1_80,B1,Mega Rising,80,Eiscue,3D
+B1_81,B1,Mega Rising,81,Jolteon ex,4D
+B1_82,B1,Mega Rising,82,Mareep,1D
+B1_83,B1,Mega Rising,83,Flaaffy,2D
+B1_84,B1,Mega Rising,84,Ampharos,3D
+B1_85,B1,Mega Rising,85,Mega Ampharos ex,4D
+B1_86,B1,Mega Rising,86,Shinx,1D
+B1_87,B1,Mega Rising,87,Luxio,2D
+B1_88,B1,Mega Rising,88,Luxray,3D
+B1_89,B1,Mega Rising,89,Pachirisu,1D
+B1_90,B1,Mega Rising,90,Blitzle,1D
+B1_91,B1,Mega Rising,91,Zebstrika,2D
+B1_92,B1,Mega Rising,92,Joltik,1D
+B1_93,B1,Mega Rising,93,Galvantula,2D
+B1_94,B1,Mega Rising,94,Dedenne,1D
+B1_95,B1,Mega Rising,95,Yamper,1D
+B1_96,B1,Mega Rising,96,Boltund,2D
+B1_97,B1,Mega Rising,97,Natu,1D
+B1_98,B1,Mega Rising,98,Xatu,2D
+B1_99,B1,Mega Rising,99,Misdreavus,1D
+B1_100,B1,Mega Rising,100,Mismagius,2D
+B1_101,B1,Mega Rising,101,Sableye,1D
+B1_102,B1,Mega Rising,102,Mega Altaria ex,4D
+B1_103,B1,Mega Rising,103,Duskull,1D
+B1_104,B1,Mega Rising,104,Dusclops,2D
+B1_105,B1,Mega Rising,105,Dusknoir,3D
+B1_106,B1,Mega Rising,106,Jirachi,3D
+B1_107,B1,Mega Rising,107,Drifloon,1D
+B1_108,B1,Mega Rising,108,Drifblim,2D
+B1_109,B1,Mega Rising,109,Chingling,3D
+B1_110,B1,Mega Rising,110,Yamask,1D
+B1_111,B1,Mega Rising,111,Cofagrigus,3D
+B1_112,B1,Mega Rising,112,Gothita,1D
+B1_113,B1,Mega Rising,113,Gothorita,2D
+B1_114,B1,Mega Rising,114,Gothitelle,3D
+B1_115,B1,Mega Rising,115,Spritzee,1D
+B1_116,B1,Mega Rising,116,Aromatisse,2D
+B1_117,B1,Mega Rising,117,Swirlix,1D
+B1_118,B1,Mega Rising,118,Slurpuff,2D
+B1_119,B1,Mega Rising,119,Carbink,1D
+B1_120,B1,Mega Rising,120,Klefki,3D
+B1_121,B1,Mega Rising,121,Indeedee ex,4D
+B1_122,B1,Mega Rising,122,Sandshrew,1D
+B1_123,B1,Mega Rising,123,Sandslash,2D
+B1_124,B1,Mega Rising,124,Hitmonchan ex,4D
+B1_125,B1,Mega Rising,125,Sudowoodo,1D
+B1_126,B1,Mega Rising,126,Makuhita,1D
+B1_127,B1,Mega Rising,127,Hariyama,2D
+B1_128,B1,Mega Rising,128,Hippopotas,1D
+B1_129,B1,Mega Rising,129,Hippowdon,2D
+B1_130,B1,Mega Rising,130,Sandile,1D
+B1_131,B1,Mega Rising,131,Krokorok,2D
+B1_132,B1,Mega Rising,132,Krookodile,3D
+B1_133,B1,Mega Rising,133,Archen,2D
+B1_134,B1,Mega Rising,134,Archeops,3D
+B1_135,B1,Mega Rising,135,Golett,1D
+B1_136,B1,Mega Rising,136,Golurk,3D
+B1_137,B1,Mega Rising,137,Terrakion,3D
+B1_138,B1,Mega Rising,138,Pancham,1D
+B1_139,B1,Mega Rising,139,Crabrawler,1D
+B1_140,B1,Mega Rising,140,Crabominable,2D
+B1_141,B1,Mega Rising,141,Stufful,1D
+B1_142,B1,Mega Rising,142,Bewear,2D
+B1_143,B1,Mega Rising,143,Sandygast,1D
+B1_144,B1,Mega Rising,144,Palossand,2D
+B1_145,B1,Mega Rising,145,Rolycoly,1D
+B1_146,B1,Mega Rising,146,Carkol,2D
+B1_147,B1,Mega Rising,147,Coalossal,3D
+B1_148,B1,Mega Rising,148,Murkrow,1D
+B1_149,B1,Mega Rising,149,Honchkrow,3D
+B1_150,B1,Mega Rising,150,Absol,2D
+B1_151,B1,Mega Rising,151,Mega Absol ex,4D
+B1_152,B1,Mega Rising,152,Skorupi,1D
+B1_153,B1,Mega Rising,153,Drapion,2D
+B1_154,B1,Mega Rising,154,Darkrai,3D
+B1_155,B1,Mega Rising,155,Deino,1D
+B1_156,B1,Mega Rising,156,Zweilous,2D
+B1_157,B1,Mega Rising,157,Hydreigon,3D
+B1_158,B1,Mega Rising,158,Pangoro,3D
+B1_159,B1,Mega Rising,159,Skrelp,1D
+B1_160,B1,Mega Rising,160,Dragalge ex,4D
+B1_161,B1,Mega Rising,161,Mareanie,1D
+B1_162,B1,Mega Rising,162,Toxapex,2D
+B1_163,B1,Mega Rising,163,Impidimp,1D
+B1_164,B1,Mega Rising,164,Morgrem,2D
+B1_165,B1,Mega Rising,165,Grimmsnarl,3D
+B1_166,B1,Mega Rising,166,Ferroseed,1D
+B1_167,B1,Mega Rising,167,Ferrothorn,2D
+B1_168,B1,Mega Rising,168,Durant,1D
+B1_169,B1,Mega Rising,169,Cobalion,3D
+B1_170,B1,Mega Rising,170,Honedge,1D
+B1_171,B1,Mega Rising,171,Doublade,2D
+B1_172,B1,Mega Rising,172,Aegislash,3D
+B1_173,B1,Mega Rising,173,Meltan,1D
+B1_174,B1,Mega Rising,174,Melmetal ex,4D
+B1_175,B1,Mega Rising,175,Corviknight,3D
+B1_176,B1,Mega Rising,176,Druddigon,1D
+B1_177,B1,Mega Rising,177,Goomy,1D
+B1_178,B1,Mega Rising,178,Sliggoo,2D
+B1_179,B1,Mega Rising,179,Goodra,3D
+B1_180,B1,Mega Rising,180,Pidgey,1D
+B1_181,B1,Mega Rising,181,Pidgeotto,1D
+B1_182,B1,Mega Rising,182,Pidgeot,2D
+B1_183,B1,Mega Rising,183,Tauros ex,4D
+B1_184,B1,Mega Rising,184,Eevee,1D
+B1_185,B1,Mega Rising,185,Aipom,1D
+B1_186,B1,Mega Rising,186,Ambipom,2D
+B1_187,B1,Mega Rising,187,Miltank,1D
+B1_188,B1,Mega Rising,188,Zigzagoon,1D
+B1_189,B1,Mega Rising,189,Linoone,2D
+B1_190,B1,Mega Rising,190,Whismur,1D
+B1_191,B1,Mega Rising,191,Loudred,1D
+B1_192,B1,Mega Rising,192,Exploud,3D
+B1_193,B1,Mega Rising,193,Skitty,1D
+B1_194,B1,Mega Rising,194,Delcatty,3D
+B1_195,B1,Mega Rising,195,Spinda,1D
+B1_196,B1,Mega Rising,196,Swablu,1D
+B1_197,B1,Mega Rising,197,Altaria,3D
+B1_198,B1,Mega Rising,198,Chatot,1D
+B1_199,B1,Mega Rising,199,Patrat,1D
+B1_200,B1,Mega Rising,200,Watchog,2D
+B1_201,B1,Mega Rising,201,Lillipup,1D
+B1_202,B1,Mega Rising,202,Herdier,2D
+B1_203,B1,Mega Rising,203,Stoutland,3D
+B1_204,B1,Mega Rising,204,Rufflet,1D
+B1_205,B1,Mega Rising,205,Braviary,2D
+B1_206,B1,Mega Rising,206,Furfrou,2D
+B1_207,B1,Mega Rising,207,Furfrou,2D
+B1_208,B1,Mega Rising,208,Furfrou,2D
+B1_209,B1,Mega Rising,209,Rookidee,1D
+B1_210,B1,Mega Rising,210,Corvisquire,2D
+B1_211,B1,Mega Rising,211,Wooloo,1D
+B1_212,B1,Mega Rising,212,Dubwool,2D
+B1_213,B1,Mega Rising,213,Prank Spinner,2D
+B1_214,B1,Mega Rising,214,Plume Fossil,1D
+B1_215,B1,Mega Rising,215,Hitting Hammer,2D
+B1_216,B1,Mega Rising,216,Cover Fossil,1D
+B1_217,B1,Mega Rising,217,Flame Patch,2D
+B1_218,B1,Mega Rising,218,Sitrus Berry,2D
+B1_219,B1,Mega Rising,219,Heavy Helmet,2D
+B1_220,B1,Mega Rising,220,Lucky Mittens,2D
+B1_221,B1,Mega Rising,221,Marlon,2D
+B1_222,B1,Mega Rising,222,Hala,2D
+B1_223,B1,Mega Rising,223,May,2D
+B1_224,B1,Mega Rising,224,Fantina,2D
+B1_225,B1,Mega Rising,225,Copycat,2D
+B1_226,B1,Mega Rising,226,Lisia,2D
+B1a_1,B1a,Crimson Blaze,1,Bulbasaur,1D
+B1a_2,B1a,Crimson Blaze,2,Ivysaur,2D
+B1a_3,B1a,Crimson Blaze,3,Venusaur,3D
+B1a_4,B1a,Crimson Blaze,4,Mega Venusaur ex,4D
+B1a_5,B1a,Crimson Blaze,5,Spinarak,1D
+B1a_6,B1a,Crimson Blaze,6,Ariados,2D
+B1a_7,B1a,Crimson Blaze,7,Sunkern,1D
+B1a_8,B1a,Crimson Blaze,8,Sunflora,2D
+B1a_9,B1a,Crimson Blaze,9,Burmy,1D
+B1a_10,B1a,Crimson Blaze,10,Mothim,1D
+B1a_11,B1a,Crimson Blaze,11,Charmander,1D
+B1a_12,B1a,Crimson Blaze,12,Charmeleon,2D
+B1a_13,B1a,Crimson Blaze,13,Charizard,3D
+B1a_14,B1a,Crimson Blaze,14,Mega Charizard Y ex,4D
+B1a_15,B1a,Crimson Blaze,15,Houndour,1D
+B1a_16,B1a,Crimson Blaze,16,Houndoom,1D
+B1a_17,B1a,Crimson Blaze,17,Squirtle,1D
+B1a_18,B1a,Crimson Blaze,18,Wartortle,2D
+B1a_19,B1a,Crimson Blaze,19,Blastoise,3D
+B1a_20,B1a,Crimson Blaze,20,Mega Blastoise ex,4D
+B1a_21,B1a,Crimson Blaze,21,Basculin,1D
+B1a_22,B1a,Crimson Blaze,22,Clauncher,1D
+B1a_23,B1a,Crimson Blaze,23,Clawitzer,2D
+B1a_24,B1a,Crimson Blaze,24,Magnemite,1D
+B1a_25,B1a,Crimson Blaze,25,Magneton,2D
+B1a_26,B1a,Crimson Blaze,26,Magnezone,3D
+B1a_27,B1a,Crimson Blaze,27,Emolga,1D
+B1a_28,B1a,Crimson Blaze,28,Helioptile,1D
+B1a_29,B1a,Crimson Blaze,29,Heliolisk,2D
+B1a_30,B1a,Crimson Blaze,30,Misdreavus,1D
+B1a_31,B1a,Crimson Blaze,31,Mismagius,2D
+B1a_32,B1a,Crimson Blaze,32,Solosis,1D
+B1a_33,B1a,Crimson Blaze,33,Duosion,1D
+B1a_34,B1a,Crimson Blaze,34,Reuniclus,3D
+B1a_35,B1a,Crimson Blaze,35,Spritzee,1D
+B1a_36,B1a,Crimson Blaze,36,Aromatisse,1D
+B1a_37,B1a,Crimson Blaze,37,Xerneas,3D
+B1a_38,B1a,Crimson Blaze,38,Onix,1D
+B1a_39,B1a,Crimson Blaze,39,Makuhita,1D
+B1a_40,B1a,Crimson Blaze,40,Hariyama,2D
+B1a_41,B1a,Crimson Blaze,41,Nosepass,1D
+B1a_42,B1a,Crimson Blaze,42,Mega Lopunny ex,4D
+B1a_43,B1a,Crimson Blaze,43,Mienfoo,1D
+B1a_44,B1a,Crimson Blaze,44,Mienshao,1D
+B1a_45,B1a,Crimson Blaze,45,Grimer,1D
+B1a_46,B1a,Crimson Blaze,46,Muk,1D
+B1a_47,B1a,Crimson Blaze,47,Purrloin,1D
+B1a_48,B1a,Crimson Blaze,48,Liepard,2D
+B1a_49,B1a,Crimson Blaze,49,Trubbish,1D
+B1a_50,B1a,Crimson Blaze,50,Garbodor,2D
+B1a_51,B1a,Crimson Blaze,51,Steelix,2D
+B1a_52,B1a,Crimson Blaze,52,Mega Steelix ex,4D
+B1a_53,B1a,Crimson Blaze,53,Probopass,2D
+B1a_54,B1a,Crimson Blaze,54,Genesect,3D
+B1a_55,B1a,Crimson Blaze,55,Ditto,2D
+B1a_56,B1a,Crimson Blaze,56,Porygon,1D
+B1a_57,B1a,Crimson Blaze,57,Porygon2,2D
+B1a_58,B1a,Crimson Blaze,58,Porygon-Z,3D
+B1a_59,B1a,Crimson Blaze,59,Starly,1D
+B1a_60,B1a,Crimson Blaze,60,Staravia,1D
+B1a_61,B1a,Crimson Blaze,61,Staraptor,2D
+B1a_62,B1a,Crimson Blaze,62,Buneary,1D
+B1a_63,B1a,Crimson Blaze,63,Lopunny,2D
+B1a_64,B1a,Crimson Blaze,64,Bouffalant,2D
+B1a_65,B1a,Crimson Blaze,65,Furfrou,2D
+B1a_66,B1a,Crimson Blaze,66,Clemont's Backpack,2D
+B1a_67,B1a,Crimson Blaze,67,Quick-Grow Extract,2D
+B1a_68,B1a,Crimson Blaze,68,Clemont,2D
+B1a_69,B1a,Crimson Blaze,69,Serena,2D
+B2_1,B2,Fantastical Parade,1,Ledyba,1D
+B2_2,B2,Fantastical Parade,2,Ledian,1D
+B2_3,B2,Fantastical Parade,3,Shuckle,1D
+B2_4,B2,Fantastical Parade,4,Roselia,1D
+B2_5,B2,Fantastical Parade,5,Roserade,3D
+B2_6,B2,Fantastical Parade,6,Cacnea,1D
+B2_7,B2,Fantastical Parade,7,Cacturne,2D
+B2_8,B2,Fantastical Parade,8,Chespin,1D
+B2_9,B2,Fantastical Parade,9,Quilladin,2D
+B2_10,B2,Fantastical Parade,10,Chesnaught,3D
+B2_11,B2,Fantastical Parade,11,Scatterbug,1D
+B2_12,B2,Fantastical Parade,12,Spewpa,1D
+B2_13,B2,Fantastical Parade,13,Vivillon,2D
+B2_14,B2,Fantastical Parade,14,Buzzwole,3D
+B2_15,B2,Fantastical Parade,15,Gossifleur,1D
+B2_16,B2,Fantastical Parade,16,Eldegoss,2D
+B2_17,B2,Fantastical Parade,17,Teal Mask Ogerpon ex,4D
+B2_18,B2,Fantastical Parade,18,Alolan Marowak,2D
+B2_19,B2,Fantastical Parade,19,Reshiram,3D
+B2_20,B2,Fantastical Parade,20,Litleo,1D
+B2_21,B2,Fantastical Parade,21,Pyroar,2D
+B2_22,B2,Fantastical Parade,22,Oricorio,2D
+B2_23,B2,Fantastical Parade,23,Blacephalon ex,4D
+B2_24,B2,Fantastical Parade,24,Scorbunny,1D
+B2_25,B2,Fantastical Parade,25,Raboot,2D
+B2_26,B2,Fantastical Parade,26,Cinderace,3D
+B2_27,B2,Fantastical Parade,27,Hearthflame Mask Ogerpon,3D
+B2_28,B2,Fantastical Parade,28,Alolan Vulpix,1D
+B2_29,B2,Fantastical Parade,29,Alolan Ninetales ex,4D
+B2_30,B2,Fantastical Parade,30,Galarian Mr. Mime,1D
+B2_31,B2,Fantastical Parade,31,Galarian Mr. Rime,2D
+B2_32,B2,Fantastical Parade,32,Delibird,2D
+B2_33,B2,Fantastical Parade,33,Mudkip,1D
+B2_34,B2,Fantastical Parade,34,Marshtomp,2D
+B2_35,B2,Fantastical Parade,35,Swampert,3D
+B2_36,B2,Fantastical Parade,36,Mega Swampert ex,4D
+B2_37,B2,Fantastical Parade,37,Vanillite,1D
+B2_38,B2,Fantastical Parade,38,Vanillish,1D
+B2_39,B2,Fantastical Parade,39,Vanilluxe,2D
+B2_40,B2,Fantastical Parade,40,Cryogonal,1D
+B2_41,B2,Fantastical Parade,41,Amaura,2D
+B2_42,B2,Fantastical Parade,42,Aurorus,3D
+B2_43,B2,Fantastical Parade,43,Chewtle,1D
+B2_44,B2,Fantastical Parade,44,Drednaw,2D
+B2_45,B2,Fantastical Parade,45,Cramorant,1D
+B2_46,B2,Fantastical Parade,46,Arrokuda,1D
+B2_47,B2,Fantastical Parade,47,Barraskewda,1D
+B2_48,B2,Fantastical Parade,48,Wellspring Mask Ogerpon,3D
+B2_49,B2,Fantastical Parade,49,Pikachu,1D
+B2_50,B2,Fantastical Parade,50,Alolan Raichu,3D
+B2_51,B2,Fantastical Parade,51,Zapdos,3D
+B2_52,B2,Fantastical Parade,52,Plusle,1D
+B2_53,B2,Fantastical Parade,53,Minun,1D
+B2_54,B2,Fantastical Parade,54,Toxel,1D
+B2_55,B2,Fantastical Parade,55,Toxtricity ex,4D
+B2_56,B2,Fantastical Parade,56,Tadbulb,1D
+B2_57,B2,Fantastical Parade,57,Bellibolt,2D
+B2_58,B2,Fantastical Parade,58,Galarian Ponyta,1D
+B2_59,B2,Fantastical Parade,59,Galarian Rapidash,2D
+B2_60,B2,Fantastical Parade,60,Wobbuffet,1D
+B2_61,B2,Fantastical Parade,61,Snubbull,1D
+B2_62,B2,Fantastical Parade,62,Granbull,2D
+B2_63,B2,Fantastical Parade,63,Ralts,1D
+B2_64,B2,Fantastical Parade,64,Kirlia,2D
+B2_65,B2,Fantastical Parade,65,Gardevoir,3D
+B2_66,B2,Fantastical Parade,66,Mega Gardevoir ex,4D
+B2_67,B2,Fantastical Parade,67,Litwick,1D
+B2_68,B2,Fantastical Parade,68,Lampent,2D
+B2_69,B2,Fantastical Parade,69,Chandelure,3D
+B2_70,B2,Fantastical Parade,70,Meloetta,2D
+B2_71,B2,Fantastical Parade,71,Pumpkaboo,1D
+B2_72,B2,Fantastical Parade,72,Gourgeist,3D
+B2_73,B2,Fantastical Parade,73,Mimikyu ex,4D
+B2_74,B2,Fantastical Parade,74,Sinistea,1D
+B2_75,B2,Fantastical Parade,75,Polteageist,2D
+B2_76,B2,Fantastical Parade,76,Indeedee,1D
+B2_77,B2,Fantastical Parade,77,Sandshrew,1D
+B2_78,B2,Fantastical Parade,78,Sandslash,1D
+B2_79,B2,Fantastical Parade,79,Machop,1D
+B2_80,B2,Fantastical Parade,80,Machoke,1D
+B2_81,B2,Fantastical Parade,81,Machamp,2D
+B2_82,B2,Fantastical Parade,82,Cubone,1D
+B2_83,B2,Fantastical Parade,83,Meditite,1D
+B2_84,B2,Fantastical Parade,84,Medicham,2D
+B2_85,B2,Fantastical Parade,85,Roggenrola,1D
+B2_86,B2,Fantastical Parade,86,Boldore,2D
+B2_87,B2,Fantastical Parade,87,Gigalith ex,4D
+B2_88,B2,Fantastical Parade,88,Drilbur,1D
+B2_89,B2,Fantastical Parade,89,Tyrunt,2D
+B2_90,B2,Fantastical Parade,90,Tyrantrum,3D
+B2_91,B2,Fantastical Parade,91,Passimian,1D
+B2_92,B2,Fantastical Parade,92,Falinks,2D
+B2_93,B2,Fantastical Parade,93,Cornerstone Mask Ogerpon,3D
+B2_94,B2,Fantastical Parade,94,Alolan Meowth,1D
+B2_95,B2,Fantastical Parade,95,Alolan Persian,2D
+B2_96,B2,Fantastical Parade,96,Alolan Grimer,1D
+B2_97,B2,Fantastical Parade,97,Alolan Muk,3D
+B2_98,B2,Fantastical Parade,98,Galarian Zigzagoon,1D
+B2_99,B2,Fantastical Parade,99,Galarian Linoone,2D
+B2_100,B2,Fantastical Parade,100,Galarian Obstagoon,3D
+B2_101,B2,Fantastical Parade,101,Stunky,1D
+B2_102,B2,Fantastical Parade,102,Skuntank,2D
+B2_103,B2,Fantastical Parade,103,Spiritomb,3D
+B2_104,B2,Fantastical Parade,104,Purrloin,1D
+B2_105,B2,Fantastical Parade,105,Liepard,2D
+B2_106,B2,Fantastical Parade,106,Scraggy,1D
+B2_107,B2,Fantastical Parade,107,Scrafty,2D
+B2_108,B2,Fantastical Parade,108,Yveltal,3D
+B2_109,B2,Fantastical Parade,109,Guzzlord,3D
+B2_110,B2,Fantastical Parade,110,Galarian Meowth,1D
+B2_111,B2,Fantastical Parade,111,Galarian Perrserker,3D
+B2_112,B2,Fantastical Parade,112,Mawile,1D
+B2_113,B2,Fantastical Parade,113,Mega Mawile ex,4D
+B2_114,B2,Fantastical Parade,114,Excadrill,2D
+B2_115,B2,Fantastical Parade,115,Ferroseed,1D
+B2_116,B2,Fantastical Parade,116,Ferrothorn,1D
+B2_117,B2,Fantastical Parade,117,Galarian Stunfisk,2D
+B2_118,B2,Fantastical Parade,118,Honedge,1D
+B2_119,B2,Fantastical Parade,119,Doublade,2D
+B2_120,B2,Fantastical Parade,120,Aegislash,3D
+B2_121,B2,Fantastical Parade,121,Bagon,1D
+B2_122,B2,Fantastical Parade,122,Shelgon,2D
+B2_123,B2,Fantastical Parade,123,Salamence,3D
+B2_124,B2,Fantastical Parade,124,Meowth,1D
+B2_125,B2,Fantastical Parade,125,Persian,1D
+B2_126,B2,Fantastical Parade,126,Kangaskhan,2D
+B2_127,B2,Fantastical Parade,127,Mega Kangaskhan ex,4D
+B2_128,B2,Fantastical Parade,128,Sentret,1D
+B2_129,B2,Fantastical Parade,129,Furret,1D
+B2_130,B2,Fantastical Parade,130,Smeargle,2D
+B2_131,B2,Fantastical Parade,131,Lugia,3D
+B2_132,B2,Fantastical Parade,132,Taillow,1D
+B2_133,B2,Fantastical Parade,133,Swellow,3D
+B2_134,B2,Fantastical Parade,134,Slakoth,1D
+B2_135,B2,Fantastical Parade,135,Vigoroth,2D
+B2_136,B2,Fantastical Parade,136,Slaking,3D
+B2_137,B2,Fantastical Parade,137,Spinda,1D
+B2_138,B2,Fantastical Parade,138,Tornadus,3D
+B2_139,B2,Fantastical Parade,139,Bunnelby,1D
+B2_140,B2,Fantastical Parade,140,Diggersby,2D
+B2_141,B2,Fantastical Parade,141,Furfrou,2D
+B2_142,B2,Fantastical Parade,142,Tandemaus,1D
+B2_143,B2,Fantastical Parade,143,Maushold,2D
+B2_144,B2,Fantastical Parade,144,Jaw Fossil,1D
+B2_145,B2,Fantastical Parade,145,Lucky Ice Pop,2D
+B2_146,B2,Fantastical Parade,146,Sail Fossil,1D
+B2_147,B2,Fantastical Parade,147,Protective Poncho,2D
+B2_148,B2,Fantastical Parade,148,Metal Core Barrier,2D
+B2_149,B2,Fantastical Parade,149,Diantha,2D
+B2_150,B2,Fantastical Parade,150,Sightseer,2D
+B2_151,B2,Fantastical Parade,151,Juggler,2D
+B2_152,B2,Fantastical Parade,152,Piers,2D
+B2_153,B2,Fantastical Parade,153,Training Area,2D
+B2_154,B2,Fantastical Parade,154,Starting Plains,2D
+B2_155,B2,Fantastical Parade,155,Peculiar Plaza,2D
+B2a_1,B2a,Paldean Wonders,1,Sprigatito,1D
+B2a_2,B2a,Paldean Wonders,2,Floragato,1D
+B2a_3,B2a,Paldean Wonders,3,Meowscarada ex,4D
+B2a_4,B2a,Paldean Wonders,4,Tarountula,1D
+B2a_5,B2a,Paldean Wonders,5,Spidops,2D
+B2a_6,B2a,Paldean Wonders,6,Nymble,1D
+B2a_7,B2a,Paldean Wonders,7,Smoliv,1D
+B2a_8,B2a,Paldean Wonders,8,Dolliv,1D
+B2a_9,B2a,Paldean Wonders,9,Arboliva,3D
+B2a_10,B2a,Paldean Wonders,10,Bramblin,1D
+B2a_11,B2a,Paldean Wonders,11,Brambleghast,2D
+B2a_12,B2a,Paldean Wonders,12,Capsakid,1D
+B2a_13,B2a,Paldean Wonders,13,Scovillain,2D
+B2a_14,B2a,Paldean Wonders,14,Rellor,1D
+B2a_15,B2a,Paldean Wonders,15,Wo-Chien,3D
+B2a_16,B2a,Paldean Wonders,16,Fuecoco,1D
+B2a_17,B2a,Paldean Wonders,17,Crocalor,1D
+B2a_18,B2a,Paldean Wonders,18,Skeledirge,3D
+B2a_19,B2a,Paldean Wonders,19,Charcadet,1D
+B2a_20,B2a,Paldean Wonders,20,Armarouge ex,4D
+B2a_21,B2a,Paldean Wonders,21,Chi-Yu,3D
+B2a_22,B2a,Paldean Wonders,22,Quaxly,1D
+B2a_23,B2a,Paldean Wonders,23,Quaxwell,1D
+B2a_24,B2a,Paldean Wonders,24,Quaquaval,3D
+B2a_25,B2a,Paldean Wonders,25,Wiglett,1D
+B2a_26,B2a,Paldean Wonders,26,Wugtrio,2D
+B2a_27,B2a,Paldean Wonders,27,Finizen,1D
+B2a_28,B2a,Paldean Wonders,28,Palafin,3D
+B2a_29,B2a,Paldean Wonders,29,Cetoddle,1D
+B2a_30,B2a,Paldean Wonders,30,Cetitan,2D
+B2a_31,B2a,Paldean Wonders,31,Veluza,2D
+B2a_32,B2a,Paldean Wonders,32,Dondozo,2D
+B2a_33,B2a,Paldean Wonders,33,Tatsugiri,2D
+B2a_34,B2a,Paldean Wonders,34,Frigibax,1D
+B2a_35,B2a,Paldean Wonders,35,Arctibax,1D
+B2a_36,B2a,Paldean Wonders,36,Baxcalibur,3D
+B2a_37,B2a,Paldean Wonders,37,Chien-Pao ex,4D
+B2a_38,B2a,Paldean Wonders,38,Pawmi,1D
+B2a_39,B2a,Paldean Wonders,39,Pawmo,1D
+B2a_40,B2a,Paldean Wonders,40,Pawmot,2D
+B2a_41,B2a,Paldean Wonders,41,Tadbulb,1D
+B2a_42,B2a,Paldean Wonders,42,Bellibolt ex,4D
+B2a_43,B2a,Paldean Wonders,43,Wattrel,1D
+B2a_44,B2a,Paldean Wonders,44,Kilowattrel,2D
+B2a_45,B2a,Paldean Wonders,45,Miraidon,3D
+B2a_46,B2a,Paldean Wonders,46,Fidough,1D
+B2a_47,B2a,Paldean Wonders,47,Dachsbun,2D
+B2a_48,B2a,Paldean Wonders,48,Ceruledge,3D
+B2a_49,B2a,Paldean Wonders,49,Rabsca,2D
+B2a_50,B2a,Paldean Wonders,50,Flittle,1D
+B2a_51,B2a,Paldean Wonders,51,Espathra,2D
+B2a_52,B2a,Paldean Wonders,52,Greavard,1D
+B2a_53,B2a,Paldean Wonders,53,Houndstone,2D
+B2a_54,B2a,Paldean Wonders,54,Gimmighoul,1D
+B2a_55,B2a,Paldean Wonders,55,Mankey,1D
+B2a_56,B2a,Paldean Wonders,56,Primeape,1D
+B2a_57,B2a,Paldean Wonders,57,Annihilape,2D
+B2a_58,B2a,Paldean Wonders,58,Paldean Tauros,2D
+B2a_59,B2a,Paldean Wonders,59,Toedscool,1D
+B2a_60,B2a,Paldean Wonders,60,Toedscruel,2D
+B2a_61,B2a,Paldean Wonders,61,Klawf,1D
+B2a_62,B2a,Paldean Wonders,62,Ting-Lu,3D
+B2a_63,B2a,Paldean Wonders,63,Koraidon,3D
+B2a_64,B2a,Paldean Wonders,64,Paldean Wooper,1D
+B2a_65,B2a,Paldean Wonders,65,Paldean Clodsire,2D
+B2a_66,B2a,Paldean Wonders,66,Lokix,2D
+B2a_67,B2a,Paldean Wonders,67,Maschiff,1D
+B2a_68,B2a,Paldean Wonders,68,Mabosstiff,2D
+B2a_69,B2a,Paldean Wonders,69,Shroodle,1D
+B2a_70,B2a,Paldean Wonders,70,Grafaiai,2D
+B2a_71,B2a,Paldean Wonders,71,Bombirdier,1D
+B2a_72,B2a,Paldean Wonders,72,Tinkatink,1D
+B2a_73,B2a,Paldean Wonders,73,Tinkatuff,1D
+B2a_74,B2a,Paldean Wonders,74,Tinkaton,3D
+B2a_75,B2a,Paldean Wonders,75,Varoom,1D
+B2a_76,B2a,Paldean Wonders,76,Revavroom,2D
+B2a_77,B2a,Paldean Wonders,77,Orthworm,2D
+B2a_78,B2a,Paldean Wonders,78,Gholdengo ex,4D
+B2a_79,B2a,Paldean Wonders,79,Lechonk,1D
+B2a_80,B2a,Paldean Wonders,80,Oinkologne,1D
+B2a_81,B2a,Paldean Wonders,81,Tandemaus,1D
+B2a_82,B2a,Paldean Wonders,82,Maushold,2D
+B2a_83,B2a,Paldean Wonders,83,Squawkabilly,1D
+B2a_84,B2a,Paldean Wonders,84,Cyclizar,2D
+B2a_85,B2a,Paldean Wonders,85,Flamigo,1D
+B2a_86,B2a,Paldean Wonders,86,Electric Generator,2D
+B2a_87,B2a,Paldean Wonders,87,Big Air Balloon,2D
+B2a_88,B2a,Paldean Wonders,88,Team Star Grunt,2D
+B2a_89,B2a,Paldean Wonders,89,Iono,2D
+B2a_90,B2a,Paldean Wonders,90,Nemona,2D
+B2a_91,B2a,Paldean Wonders,91,Arven,2D
+B2a_92,B2a,Paldean Wonders,92,Penny,2D
+B2a_93,B2a,Paldean Wonders,93,Mesagoza,2D
+B2b_1,B2b,Mega Shine,1,Scyther,1D
+B2b_2,B2b,Mega Shine,2,Pineco,1D
+B2b_3,B2b,Mega Shine,3,Volbeat,1D
+B2b_4,B2b,Mega Shine,4,Illumise,1D
+B2b_5,B2b,Mega Shine,5,Phantump,1D
+B2b_6,B2b,Mega Shine,6,Trevenant,2D
+B2b_7,B2b,Mega Shine,7,Charmander,1D
+B2b_8,B2b,Mega Shine,8,Charmeleon,2D
+B2b_9,B2b,Mega Shine,9,Mega Charizard X ex,4D
+B2b_10,B2b,Mega Shine,10,Ponyta,1D
+B2b_11,B2b,Mega Shine,11,Rapidash,1D
+B2b_12,B2b,Mega Shine,12,Magmar,1D
+B2b_13,B2b,Mega Shine,13,Magmortar,2D
+B2b_14,B2b,Mega Shine,14,Paldean Tauros,1D
+B2b_15,B2b,Mega Shine,15,Slowpoke,1D
+B2b_16,B2b,Mega Shine,16,Mega Slowbro ex,4D
+B2b_17,B2b,Mega Shine,17,Lapras,2D
+B2b_18,B2b,Mega Shine,18,Piplup,1D
+B2b_19,B2b,Mega Shine,19,Prinplup,2D
+B2b_20,B2b,Mega Shine,20,Empoleon,3D
+B2b_21,B2b,Mega Shine,21,Phione,2D
+B2b_22,B2b,Mega Shine,22,Pikachu,1D
+B2b_23,B2b,Mega Shine,23,Raichu,2D
+B2b_24,B2b,Mega Shine,24,Electabuzz,1D
+B2b_25,B2b,Mega Shine,25,Electivire,2D
+B2b_26,B2b,Mega Shine,26,Electrike,1D
+B2b_27,B2b,Mega Shine,27,Mega Manectric ex,4D
+B2b_28,B2b,Mega Shine,28,Drowzee,1D
+B2b_29,B2b,Mega Shine,29,Hypno,2D
+B2b_30,B2b,Mega Shine,30,Mew,3D
+B2b_31,B2b,Mega Shine,31,Spoink,1D
+B2b_32,B2b,Mega Shine,32,Grumpig,2D
+B2b_33,B2b,Mega Shine,33,Diglett,1D
+B2b_34,B2b,Mega Shine,34,Dugtrio,2D
+B2b_35,B2b,Mega Shine,35,Groudon,3D
+B2b_36,B2b,Mega Shine,36,Hawlucha,1D
+B2b_37,B2b,Mega Shine,37,Gastly,1D
+B2b_38,B2b,Mega Shine,38,Haunter,2D
+B2b_39,B2b,Mega Shine,39,Mega Gengar ex,4D
+B2b_40,B2b,Mega Shine,40,Darkrai,3D
+B2b_41,B2b,Mega Shine,41,Trubbish,1D
+B2b_42,B2b,Mega Shine,42,Garbodor,1D
+B2b_43,B2b,Mega Shine,43,Zorua,1D
+B2b_44,B2b,Mega Shine,44,Zoroark,3D
+B2b_45,B2b,Mega Shine,45,Morpeko,1D
+B2b_46,B2b,Mega Shine,46,Forretress,2D
+B2b_47,B2b,Mega Shine,47,Mega Scizor ex,4D
+B2b_48,B2b,Mega Shine,48,Kartana,2D
+B2b_49,B2b,Mega Shine,49,Varoom,1D
+B2b_50,B2b,Mega Shine,50,Revavroom,3D
+B2b_51,B2b,Mega Shine,51,Dratini,1D
+B2b_52,B2b,Mega Shine,52,Dragonair,2D
+B2b_53,B2b,Mega Shine,53,Dragonite,3D
+B2b_54,B2b,Mega Shine,54,Axew,1D
+B2b_55,B2b,Mega Shine,55,Fraxure,2D
+B2b_56,B2b,Mega Shine,56,Haxorus,3D
+B2b_57,B2b,Mega Shine,57,Druddigon,1D
+B2b_58,B2b,Mega Shine,58,Jigglypuff,1D
+B2b_59,B2b,Mega Shine,59,Wigglytuff,1D
+B2b_60,B2b,Mega Shine,60,Miltank,2D
+B2b_61,B2b,Mega Shine,61,Chatot,1D
+B2b_62,B2b,Mega Shine,62,Minccino,1D
+B2b_63,B2b,Mega Shine,63,Cinccino,1D
+B2b_64,B2b,Mega Shine,64,Furfrou,2D
+B2b_65,B2b,Mega Shine,65,Nasty Notice,2D
+B2b_66,B2b,Mega Shine,66,Maintenance,2D
+B2b_67,B2b,Mega Shine,67,Iris,2D
+B2b_68,B2b,Mega Shine,68,Calem,2D
+B2b_69,B2b,Mega Shine,69,Hiking Trail,2D

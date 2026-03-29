@@ -348,3 +348,59 @@ SafeReload() {
     Run, "%A_AhkPath%" "%A_ScriptFullPath%"
     ExitApp
 }
+
+; ============================================================
+; READ CSV - Generic CSV reader
+; Returns an array of objects, keyed by header names.
+; Example: rows[1]["pokemon_name"] => "Pikachu"
+; ============================================================
+ReadCSV(filePath) {
+    FileRead, csvData, %filePath%
+    if (ErrorLevel) {
+        MsgBox, 16, Error, Could not read %filePath%
+        ExitApp
+    }
+
+    rows := []
+    headers := []
+    isHeader := true
+
+    Loop, Parse, csvData, `n, `r
+    {
+        line := A_LoopField
+        if (line = "")
+            Continue
+
+        fields := SplitCSVLine(line)
+
+        if (isHeader) {
+            Loop, % fields.MaxIndex()
+                headers.Push(Trim(fields[A_Index]))
+            isHeader := false
+            Continue
+        }
+
+        row := {}
+        Loop, % headers.MaxIndex()
+        {
+            key := headers[A_Index]
+            val := Trim(fields[A_Index])
+            row[key] := val
+        }
+        rows.Push(row)
+    }
+
+    return rows
+}
+
+; ============================================================
+; SPLIT CSV LINE - Splits a single CSV line by comma
+; Returns an array of field values
+; ============================================================
+SplitCSVLine(line) {
+    fields := []
+    StringSplit, parts, line, `,
+    Loop, %parts0%
+        fields.Push(parts%A_Index%)
+    return fields
+}

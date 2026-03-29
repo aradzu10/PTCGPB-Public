@@ -394,3 +394,10 @@ adbTakeScreenshot(outputFile) {
         return
     }
 }
+
+isGameRunning() {
+    global adbPath, adbPort
+    deviceAddress := "127.0.0.1:" . adbPort
+    result := CmdRet("""" . adbPath . """ -s " . deviceAddress . " shell pidof jp.pokemon.pokemontcgp")
+    return Trim(result) != ""
+}

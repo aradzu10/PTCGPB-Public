@@ -217,9 +217,9 @@ NextStep:
    MainGuiName := SGUI
 
    sectionColor := "cWhite"
-   Gui, Add, GroupBox, x5 y0 w240 h50 %sectionColor%, Friend ID (Wonderpick mode only)
+   Gui, Add, GroupBox, x5 y0 w240 h50 %sectionColor%, Friend ID (Wonderpick and Trade)
    if(FriendID = "ERROR" || FriendID = "")
-     FriendID =
+     FriendID := ""
    Gui, Add, Edit, vFriendID w180 x35 y20 h20 -E0x200 Background2A2A2A cWhite, %FriendID%
 
    if (deleteMethod = "Create Bots (13P)") {
@@ -422,7 +422,7 @@ deleteSettings:
     GuiControl, Show, WaitTime
     nukeAccount := false
   } else if (deleteMethod = "Inject 13P+") {
-    GuiControl, Hide, FriendID
+    GuiControl, Show, FriendID
     GuiControl, Show, spendHourGlass
     GuiControl, Hide, packMethod
     GuiControl, Show, openExtraPack
@@ -433,7 +433,6 @@ deleteSettings:
     GuiControl, Hide, AccountName
     GuiControl, Hide, WaitTime
     nukeAccount := false
-    ; FriendID kept stored but only used when deleteMethod = "Inject Wonderpick 96P+"
   }
 return
 
@@ -2369,15 +2368,9 @@ SaveAllSettings() {
    else if (SortByDropdown = "Most Packs First")
       injectSortMethod := "PacksDesc"
    iniContent_Second := "deleteMethod=" deleteMethod "`n"
-   if (deleteMethod = "Inject Wonderpick 96P+") {
-      iniContent_Second .= "FriendID=" FriendID "`n"
-      iniContent_Second .= "mainIdsURL=" mainIdsURL "`n"
-   } else {
-      iniContent_Second .= "FriendID=`n"
-      iniContent_Second .= "mainIdsURL=`n"
-      mainIdsURL := ""
-      FriendID := ""
-   }
+
+   iniContent_Second .= "FriendID=" FriendID "`n"
+   iniContent_Second .= "mainIdsURL=" mainIdsURL "`n"
    
    iniContent_Second .= "AccountName=" AccountName "`n"
    iniContent_Second .= "waitTime=" waitTime "`n"
@@ -2734,7 +2727,7 @@ StartBot() {
       total := SumVariablesInJsonFile()
       totalSeconds := Round((A_TickCount - rerollTime) / 1000)
       mminutes := Floor(totalSeconds / 60)
-      
+
       packStatus := "Time: " . mminutes . "m Packs: " . total
       packStatus .= " | Avg: " . Round(total / mminutes, 2) . " packs/min"
       DisplayPackStatus(packStatus, ((runMain ? Mains * scaleParam : 0) + 5), 625)

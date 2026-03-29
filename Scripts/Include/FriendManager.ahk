@@ -22,7 +22,7 @@ AddFriends(renew := false, getFC := false) {
     global scaleParam, deleteMethod
 
     ; Only allow AddFriends in Inject Wonderpick 96P+ mode
-    if (deleteMethod != "Inject Wonderpick 96P+")
+    if (deleteMethod != "Inject Wonderpick 96P+" && deleteMethod != "Trade Only")
         return false
 
     IniRead, groupRerollEnabled, %A_ScriptDir%\..\Settings.ini, UserSettings, groupRerollEnabled, 1
@@ -220,8 +220,7 @@ AddFriends(renew := false, getFC := false) {
 RemoveFriends() {
     global friendIDs, friended, friendID, packsInPool, scriptName, stopToggle, scaleParam, deleteMethod
 
-    ; Only allow RemoveFriends in Inject Wonderpick 96P+ mode
-    if (deleteMethod != "Inject Wonderpick 96P+") {
+    if (deleteMethod != "Inject Wonderpick 96P+" && deleteMethod != "Trade Only")
         friended := false
         return false
     }

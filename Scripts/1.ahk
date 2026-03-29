@@ -15,6 +15,7 @@
 #Include %A_ScriptDir%\Include\FriendManager.ahk
 #Include %A_ScriptDir%\Include\Dictionary.ahk
 #Include %A_ScriptDir%\Include\Recorder.ahk
+#Include %A_ScriptDir%\Include\AutoTrade.ahk
 
 #SingleInstance on
 SetMouseDelay, -1
@@ -115,7 +116,7 @@ originalDeleteMethod := deleteMethod
 deleteMethod := MigrateDeleteMethod(deleteMethod)
 if (deleteMethod != originalDeleteMethod) {
     IniWrite, %deleteMethod%, %A_ScriptDir%\..\Settings.ini, UserSettings, deleteMethod
-    validMethods := "Create Bots (13P)|Inject 13P+|Inject Wonderpick 96P+"
+    validMethods := "Create Bots (13P)|Inject 13P+|Inject Wonderpick 96P+|Trade Only"
     if (!InStr(validMethods, deleteMethod)) {
         deleteMethod := "Create Bots (13P)"
         IniWrite, %deleteMethod%, %A_ScriptDir%\..\Settings.ini, UserSettings, deleteMethod
@@ -366,8 +367,9 @@ if(injectMethod && DeadCheck != 1) {
 
 clearMissionCache()
 
-if(!injectMethod || (!loadedAccount && DeadCheck != 1))
+if((!injectMethod || (!loadedAccount && DeadCheck != 1)) && !isGameRunning()) {
     restartGameInstance("Initializing bot...", false)
+}
 
 pToken := Gdip_Startup()
 packsInPool := 0
@@ -379,7 +381,28 @@ adbSwipeX2 := Round(267 / 277 * 535)
 adbSwipeY := Round((327 - 44) / 489 * 960)
 global adbSwipeParams := adbSwipeX1 . " " . adbSwipeY . " " . adbSwipeX2 . " " . adbSwipeY . " " . swipeSpeed
 
-if(DeadCheck = 1 && deleteMethod != "Create Bots (13P)") {
+if (deleteMethod = "Trade Only") {
+    IniRead, cardId, %A_ScriptDir%\%scriptName%.ini, UserSettings, cardId, ""
+    IniRead, tradeMode, %A_ScriptDir%\%scriptName%.ini, UserSettings, tradeMode, ""
+    if (cardId = "" || tradeMode = "") {
+        CreateStatusMessage("Error: cardId or tradeMode not set in ini for Trade Only mode.",,,, false)
+        return
+    }
+
+    CreateStatusMessage("Running in Trade only mode.`n" . "cardId = " . cardId . ", mode = " . tradeMode,,,, false)
+
+    Sleep, 7000 ; avoiding spam clicks at startup which can cause stability issues
+    FindImageAndClick(158, 252, 177, 259, , "speedmodMenu", 18, 109, 2000)
+    if(setSpeed = 3)
+        FindImageAndClick(187, 168, 191, 174, , "Three", 187, 172)
+    else
+        FindImageAndClick(102, 170, 107, 174, , "Two", 106, 173)
+    Delay(1)
+    adbClick_wbb(51, 297)
+    Delay(1)
+
+    TradeOrShareWithCard(cardId, tradeMode = "Share" ? true : false)
+} else if(DeadCheck = 1 && deleteMethod != "Create Bots (13P)") {
     CreateStatusMessage("Account is stuck! Restarting and unfriending...")
     friended := true
     CreateStatusMessage("Stuck account still has friends. Unfriending accounts...")
@@ -2722,10 +2745,8 @@ ToggleDevMode() {
 
         Gui, DevMode%winTitle%:Add, Button, % "x" . (buttonWidth * 0) . " y" . (25 + 5) " w" . buttonWidth . " h25 gLogout", Logout
 
-        Gui, DevMode%winTitle%:Show, w250 h100, Dev Mode %winTitle%
-
-    }
-    catch {
+        Gui, DevMode%winTitle%:Show, w260 h100, Dev Mode %winTitle%
+    } catch {
         CreateStatusMessage("Failed to create button GUI.",,,, false)
     }
 }
